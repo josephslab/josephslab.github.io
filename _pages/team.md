@@ -25,8 +25,7 @@ Pronouns: She/her/hers
 Maya got her B.S. in Biology at Duke University studying hybrid seed incompatibility and speciation in monkey flowers (Mimulus) and morning glories (Ipomoea). She is interested in evolutionary biology, ecology, genetics, and loves strong espresso.
 
 Email: wils1582@msu.edu <br>
-Pronouns: She/her/hers <br>
-<br style="margin-bottom:240px;"/>
+Pronouns: She/her/hers <br style="margin-bottom:240px;"/>
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/adrian.jpg){: style="width: 300px; float: left; border: 10px"}
