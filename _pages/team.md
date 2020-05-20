@@ -27,7 +27,9 @@ Maya got her B.S. in Biology at Duke University studying hybrid seed incompatibi
 Email: wils1582@msu.edu <br>
 Pronouns: She/her/hers <br>
 
-
+ <br > 
+ <br > 
+ <br > 
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/adrian.jpg){: style="width: 300px; float: left; border: 10px"}
