@@ -27,6 +27,12 @@ Maya got her B.S. in Biology at Duke University studying hybrid seed incompatibi
 Email: wils1582@msu.edu <br>
 Pronouns: She/her/hers
 
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/adrian.jpg){: style="width: 300px; float: left; border: 10px"}
+### Adrian Platts (Bioinformatician)
+Adrian started out in the Physical Sciences, gaining a BSc in Physics (specializing in Computational Physics) from the University of Birmingham followed by postgraduate work in novel magnetic materials. In 2004 he switched to a bioscience career initially working on human regulatory elements before moving on to plant genetics at McGill and then New York Universities.  He joined the Josephs lab and the [Edger Lab](https://www.polyploidy.msu.edu/patrick_edger/index.html) in 2020 and balances a home life based in A2 with a work life based around MSU.
+
+
 ### You?
 I'm recruiting a postdoc and graduate students.
 [More info here](/join/)
