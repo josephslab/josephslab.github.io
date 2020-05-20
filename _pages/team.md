@@ -20,6 +20,8 @@ Twitter: [@emjosephs](https://twitter.com/emjosephs)
 Github: [emjosephs](https://github.com/emjosephs/) <br>
 Pronouns: She/her/hers
 
+***
+
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/thumbnail_maya_lab_website.jpg){: style="width: 300px; float: left; border: 10px"}
 ### Maya Wilson Brown (Lab Technician)
 Maya got her B.S. in Biology at Duke University studying hybrid seed incompatibility and speciation in monkey flowers (Mimulus) and morning glories (Ipomoea). She is interested in evolutionary biology, ecology, genetics, and loves strong espresso.
@@ -27,6 +29,7 @@ Maya got her B.S. in Biology at Duke University studying hybrid seed incompatibi
 Email: wils1582@msu.edu <br>
 Pronouns: She/her/hers <br style="margin-bottom:240px;"/>
 
+***
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/adrian.jpg){: style="width: 300px; float: left; border: 10px"}
 ### Adrian Platts (Bioinformatician)
