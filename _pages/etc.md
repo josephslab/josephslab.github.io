@@ -23,6 +23,8 @@ The lack of diversity in science is an important issue and it is our responsibil
 
 [Resource page from University of Toronto BREWS](https://brews.eeb.utoronto.ca/links-resources/)
 
+[African Americans in evolutionary science: where we have been and what's next](https://link.springer.com/article/10.1186/s12052-019-0110-5) and related blog post: [The brief history of African Americans in Evolutionary Biology, and why that is the case](https://www.molecularecologist.com/2020/02/the-brief-history-of-african-americans-in-evolutionary-biology-and-why-that-is-the-case/)
+
 [An annotated bibliography I made on gender and the tenure-track job market](http://josephslab.github.io/womenjobs/)
 
 #### Resources on MSU campus
