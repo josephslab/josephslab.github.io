@@ -10,7 +10,7 @@ permalink: /wiki/
 
 **The absolute path to the Josephs’ lab shared folder is /mnt/research/josephslab**
 
-#Connecting to HPCC using ssh key:
+# Connecting to HPCC using ssh key:
 
 In terminal, enter:
 ```
