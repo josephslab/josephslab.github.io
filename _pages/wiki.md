@@ -10,7 +10,7 @@ permalink: /wiki/
 
 **The absolute path to the Josephs’ lab shared folder is /mnt/research/josephslab**
 
-# Connecting to HPCC using ssh key:
+### Connecting to HPCC using ssh key:
 
 In terminal, enter:
 ```
@@ -44,7 +44,7 @@ dev
 
 From a development node, you can run scripts that take less than 2 hours to complete, submit jobs to SLURM etc.
 
-#Submitting a Job to SLURM
+### Submitting a Job to SLURM
 
 If you’d like to do something that takes a significant amount of memory, or longer than two hours to complete, you will need to submit a job to SLURM.
 
@@ -79,7 +79,7 @@ sbatch my_cool_script.sh
 
 The terminal will then print a job number for you to keep track of your job in the queue, check it’s status when running, and troubleshoot output.
 
-###Checking on submitted jobs
+### Checking on submitted jobs
 
 To check the status of your job, 
 ```
@@ -91,7 +91,7 @@ To see a list of submitted or running jobs by you
 qstat -u [netid]
 ```
 
-#Job Arrays
+### Job Arrays
 
 A job array is a useful way to run multiple identical jobs in parallel in a single script. A job array will add a few changes to a regular job header.
 Firstly, you’ll need to add an array specifier to your header

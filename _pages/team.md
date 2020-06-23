@@ -13,7 +13,7 @@ permalink: /people/
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/me.jpg){: style="width: 300px; float: left; border: 10px"}
 ### Emily Josephs (PI)
 
-Emily is as an assistant professor in the Plant Biology department and AgBioResearch at Michigan State University. She received a PhD from the University of Toronto and was a postdoc at the University of California, Davis. Emily is generally excited about all things population and quantitative genetics, swimming, and camping. 
+Emily is as an assistant professor in the Plant Biology department and AgBioResearch at Michigan State University. She received a PhD from the University of Toronto and was a postdoc at the University of California, Davis. Emily is generally excited about all things population and quantitative genetics, swimming, biking, and camping. 
 
 Email: josep993@msu.edu <br>
 Twitter: [@emjosephs](https://twitter.com/emjosephs)  
