@@ -43,7 +43,7 @@ Rebecca received her PhD from the Federated Department of Biological Sciences at
 
 Email: pankoreb [at] msu.edu <br>
 Pronouns: she/her/hers <br>
-Twitter: @PlantCityEvo
+Twitter: [@PlantCityEvo](https://twitter.com/PlantCityEvo)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
