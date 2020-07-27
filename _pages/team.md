@@ -41,7 +41,9 @@ Adrian started out in the Physical Sciences, gaining a BSc in Physics (specializ
 ### Rebecca Panko (Postdoc)
 Rebecca received her PhD from the Federated Department of Biological Sciences at the New Jersey Institute of Technology and Rutgers University-Newark. A long-term resident of Brooklyn, New York, she has a strong interest in urban plant ecology and evolution. Her dissertation work examined how urbanization impacts shepherd’s purse (*Capsella bursa-pastoris*) populations in the New York Metropolitan Area. She is passionate about combating “plant blindness” and enjoys both teaching and community engagement to expose larger audiences to the importance of plants. 
 
-
+Email: pankoreb [at] msu.edu
+Pronouns: she/her/hers
+Twitter: @PlantCityEvo
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
