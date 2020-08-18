@@ -1,3 +1,18 @@
+- title: "The evolutionary forces shaping cis- and trans-regulation of gene expression in a population of outcrossing plants"
+  image: cistrans.png
+  description: "We detected loci that affect the expression of nearby genes (cis-eQTLs) and of far away genes (trans-eQTLs) and compared their allele frequencies and other signatures of selection to show that negative selection acts more strongly on trans-eQTLs than cis-eQTLs. We also developed a method using coexpression networks to identify loci that affected the expression of large modules of genes with correlated expression"
+  authors: EB Josephs, YW Lee, CW Wood, DJ Schoen, SI Wright, and JR Stinchcombe
+  journal: MBE (2020)
+  link:
+    url: https://github.com/josephslab/josephslab.github.io/blob/master/pdfs/Josephs_mbe.pdf
+    display:  PDF
+  highlight: 1
+  news2:
+
+
+
+
+
 - title: "Detecting adaptive differentiation in structured populations with genomic data and common gardens"
   image: genetics.png
   description: "We developed a method to detect local adaptation in diverse samples that have been genotyped and phenotyped in common garden. Specifically, we look for excess trait differentiation along the principal components of relatedness beyond an expectation based on neutral genetic drift. We then applied these methods to detect adaptation in domesticated maize."
