@@ -53,7 +53,7 @@ Twitter: [@PlantCityEvo](https://twitter.com/PlantCityEvo)
 Miles is a graduate student in the Genetics and Genome Sciences program at MSU. He completed his B.S. at Washington State University where he majored in Biology and minored in Chemistry, Mathematics, and Quantitative Biology. His undergraduate research focused on the evolution of heavy-metal tolerance in bacteria, but his main interests now include plant genome and transcriptome evolution. In his free time, Miles is always looking to learn new programming languages, hike down interesting trails, and cook new recipes.
 
 Email: robe1195 [at] msu.edu
-
+Pronouns: he/him/his
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
