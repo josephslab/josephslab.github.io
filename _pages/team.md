@@ -48,9 +48,15 @@ Twitter: [@PlantCityEvo](https://twitter.com/PlantCityEvo)
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-### You?
-I'm recruiting a postdoc and graduate students.
-[More info here](/join/)
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/miles_lab_photo.jpg){: style="width: 300px; float: left; border: 10px"}
+### Miles Roberts (Graduate Student)
+Miles is a graduate student in the Genetics and Genome Sciences program at MSU. He completed his B.S. at Washington State University where he majored in Biology and minored in Chemistry, Mathematics, and Quantitative Biology. His undergraduate research focused on the evolution of heavy-metal tolerance in bacteria, but his main interests now include plant genome and transcriptome evolution. In his free time, Miles is always looking to learn new programming languages, hike down interesting trails, and cook new recipes.
+
+Email: robe1195 [at] msu.edu
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 
 
