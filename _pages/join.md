@@ -7,12 +7,9 @@ permalink: /join/
 ---
 
 ## Opportunities in the Lab
-The Josephs lab is looking for undergraduate students, graduate students, and postdocs to join the lab.
 Contact me at **josep993@msu.edu** if you want to talk about joining the lab!
 **Graduate students** in my lab can apply through the [Plant Biology program](https://plantbiology.natsci.msu.edu/grad-program/how-to-apply/) and have an option to get involved in the [Ecology, Evolutionary Biology, & Behavior (EEBB)](https://eebb.natsci.msu.edu/) program.
 I encourage potential **postdocs** to consider applying for independent funding and am happy to help develop project ideas for postdoc fellowships.
-I am also hiring a postdoc for a funded project on transposable elements in maize. 
-[Read more here.](http://josephslab.github.io/tepostdoc)
 
 ### About the Lab
 

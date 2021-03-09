@@ -58,8 +58,14 @@ Pronouns: he/him/his
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/nate.tiff){: style="width: 300px; float: left; border: 10px"}
+### Nathan Catlin (Postdoc)
+Nathan received his PhD from the University of Florida where he studied alternative splicing and gene duplication in rice and its wild relatives. Nathan is broadly interested in comparative genomics and population genomics, specifically how standing genetic variation in natural and breeding populations contribute to phenotypic diversity. Nathan is currently investigating TE insertions in maize and their contributions to trait variation.
+
+Email: catlinna [at] msu.edu
 
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
