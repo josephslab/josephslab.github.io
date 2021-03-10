@@ -52,8 +52,19 @@ Twitter: [@PlantCityEvo](https://twitter.com/PlantCityEvo)
 ### Miles Roberts (Graduate Student)
 Miles is a graduate student in the Genetics and Genome Sciences program at MSU. He completed his B.S. at Washington State University where he majored in Biology and minored in Chemistry, Mathematics, and Quantitative Biology. His undergraduate research focused on the evolution of heavy-metal tolerance in bacteria, but his main interests now include plant genome and transcriptome evolution. In his free time, Miles is always looking to learn new programming languages, hike down interesting trails, and cook new recipes.
 
-Email: robe1195 [at] msu.edu
+Email: robe1195 [at] msu.edu <br>
 Pronouns: he/him/his
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/sophie.jpeg){: style="width: 300px; float: left; border: 10px"}
+### Sophie Buysse (Graduate Student)
+Sophie is a graduate student in the Plant Biology department and Ecology, Evolution, and Behavior dual degree program at MSU and she is cosupervised by Jeff Conner. She completed her B.A. in Biology at the College of St. Benedict and St. John’s University in Minnesota. Her research centers on the role of phenotypic plasticity in adaptation and evolution. Outside the lab, Sophie enjoys hiking, cross country skiing, gardening, and cooking.
+
+Email: buysseso@msu.edu
+<br>
+Pronouns: she/her/hers
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -63,11 +74,6 @@ Pronouns: he/him/his
 Nathan received his PhD from the University of Florida where he studied alternative splicing and gene duplication in rice and its wild relatives. Nathan is broadly interested in comparative genomics and population genomics, specifically how standing genetic variation in natural and breeding populations contribute to phenotypic diversity. Nathan is currently investigating TE insertions in maize and their contributions to trait variation.
 
 Email: catlinna [at] msu.edu
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
 
 
 
