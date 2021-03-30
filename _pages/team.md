@@ -68,6 +68,16 @@ Pronouns: she/her/hers
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/asia.jpg){: style="width: 300px; float: left; border: 10px"}
+### Asia Hightower (Graduate Student)
+Asia is a graduate student in the Plant Biology program PhD program at MSU. She completed her B.A. and MS.c at Wayne State university where she majored in Biological sciences with a concentration evolutionary and developmental biology. Her master’s research focused on the developmental mechanism for floral meristem termination in dioecious *Spinacia oleracea*. Her main interests now include comparative leaf morphology and herbarium studies. In her free time, Asia is looking to improve her science communication skills and getting to know the East Lansing area.
+
+email: highto29 [at] msu.edu
+<br>
+Pronouns: she/her/hers
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/nate.png){: style="width: 300px; float: left; border: 10px"}
 ### Nathan Catlin (Postdoc)
