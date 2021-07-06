@@ -20,7 +20,7 @@ Twitter: [@emjosephs](https://twitter.com/emjosephs)
 Github: [emjosephs](https://github.com/emjosephs/) <br>
 Pronouns: She/her/hers
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/thumbnail_maya_lab_website.jpg){: style="width: 300px; float: left; border: 10px"}
 ### Maya Wilson Brown (PhD Student)
@@ -29,7 +29,7 @@ Maya got her B.S. in Biology at Duke University studying hybrid seed incompatibi
 Email: wils1582@msu.edu <br>
 Pronouns: She/her/hers <br style="margin-bottom:100px;"/>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/adrian.jpg){: style="width: 300px; float: left; border: 10px"}
 ### Adrian Platts (Bioinformatician)
@@ -55,7 +55,7 @@ Miles is a graduate student in the Genetics and Genome Sciences program at MSU. 
 Email: robe1195 [at] msu.edu <br>
 Pronouns: he/him/his
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/sophie.jpeg){: style="width: 300px; float: left; border: 10px"}
@@ -66,7 +66,7 @@ Email: buysseso@msu.edu
 <br>
 Pronouns: she/her/hers
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/asia.jpg){: style="width: 300px; float: left; border: 10px"}
 ### Asia Hightower (Graduate Student)
@@ -86,7 +86,7 @@ Nathan received his PhD from the University of Florida where he studied alternat
 Email: catlinna [at] msu.edu
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Daniela.jpg){: style="width: 300px; float: left; border: 10px"}
 ### Daniela Palmer
