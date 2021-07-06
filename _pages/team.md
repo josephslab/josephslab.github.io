@@ -87,3 +87,9 @@ Email: catlinna [at] msu.edu
 
 
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Daniela.jpg){: style="width: 300px; float: left; border: 10px"}
+### Daniela Palmer
+Daniela received her PhD from the University of Chicago, and was an NSF postdoc at the University of Sheffield before joining MSU as an MSU Foundation Postdoctoral Fellow in Ecology, Evolution and Behavior. Daniela is broadly interested in genome biology and evolution, particularly in relation to sexual phenotypes. She is currently working with a group of insects known as treehoppers to study sex chromosome turnover and the evolution of chromosome number.
+
+
+
