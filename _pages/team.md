@@ -86,6 +86,7 @@ Nathan received his PhD from the University of Florida where he studied alternat
 Email: catlinna [at] msu.edu
 
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Daniela.jpg){: style="width: 300px; float: left; border: 10px"}
 ### Daniela Palmer
