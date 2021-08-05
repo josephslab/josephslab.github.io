@@ -1,3 +1,18 @@
+- title: "Adaptive and maladaptive expression plasticity underlying herbicide resistance in an agricultural weed"
+  image: morning-glory.png
+  description: "In collaboration with Gina Baucom's lab at the University of Michigan, we investigated the potential for gene expression responses to herbicide to be adaptive. We used gene expression data from plants that had been grown with and without herbicide, along with expression data from artificial selection experiments for herbicide resistance to show that expression responses are often likely beneficial"
+  authors: EB Josephs, ML Van Etten, A Harkess, A Platts, RS Baucom
+  journal: Evolution Letters (2021)
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.241
+    display:  PDF
+  highlight: 1
+  news2:
+
+
+
+
+
 - title: "The evolutionary forces shaping cis- and trans-regulation of gene expression in a population of outcrossing plants"
   image: cistrans.png
   description: "We detected loci that affect the expression of nearby genes (cis-eQTLs) and of far away genes (trans-eQTLs) and compared their allele frequencies and other signatures of selection to show that negative selection acts more strongly on trans-eQTLs than cis-eQTLs. We also developed a method using coexpression networks to identify loci that affected the expression of large modules of genes with correlated expression"
