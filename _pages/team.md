@@ -23,7 +23,7 @@ Pronouns: She/her/hers
 <br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/thumbnail_maya_lab_website.jpg){: style="width: 300px; float: left; border: 10px"}
-### Maya Wilson Brown (PhD Student)
+### Maya Wilson Brown (Graduate Student)
 Maya got her B.S. in Biology at Duke University studying hybrid seed incompatibility and speciation in monkey flowers (Mimulus) and morning glories (Ipomoea). She is interested in evolutionary biology, ecology, genetics, and loves strong espresso. Maya worked in the Josephs lab as a research technician for two years before starting as a PhD student.
 
 Email: wils1582@msu.edu <br>
@@ -62,7 +62,7 @@ Pronouns: he/him/his
 ### Sophie Buysse (Graduate Student)
 Sophie is a graduate student in the Plant Biology department and Ecology, Evolution, and Behavior dual degree program at MSU and she is cosupervised by Jeff Conner. She completed her B.A. in Biology at the College of St. Benedict and St. John’s University in Minnesota. Her research centers on the role of phenotypic plasticity in adaptation and evolution. Outside the lab, Sophie enjoys hiking, cross country skiing, gardening, and cooking.
 
-Email: buysseso@msu.edu
+Email: buysseso [at] msu.edu
 <br>
 Pronouns: she/her/hers
 
@@ -89,8 +89,8 @@ Email: catlinna [at] msu.edu
 <br><br><br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Daniela.jpg){: style="width: 300px; float: left; border: 10px"}
-### Daniela Palmer
+### Daniela Palmer (Postdoc)
 Daniela received her PhD from the University of Chicago, and was an NSF postdoc at the University of Sheffield before joining MSU as an MSU Foundation Postdoctoral Fellow in Ecology, Evolution and Behavior. Daniela is broadly interested in genome biology and evolution, particularly in relation to sexual phenotypes. She is currently working with a group of insects known as treehoppers to study sex chromosome turnover and the evolution of chromosome number.
 
-Email: palme217@msu.edu
+Email: palme217 [at] msu.edu
 
