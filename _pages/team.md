@@ -67,7 +67,7 @@ email: highto29 [at] msu.edu
 <br>
 Pronouns: she/her/hers
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/nate.png){: style="width: 250px; float: left; border: 10px"}
@@ -77,7 +77,7 @@ Nathan received his PhD from the University of Florida where he studied alternat
 Email: catlinna [at] msu.edu
 
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/mia.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Mia Stevens (Research Technician)
@@ -87,14 +87,14 @@ Email: steve888 [at] msu.edu
 <br>
 Pronouns: she/hers
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 ## Lab Alums
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Panko_pic1.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Rebecca Panko (Postdoc)
 Rebecca was a postdoc in the lab from 2020 to 2022 working on local adaptation in urban *Capsella bursa-pastoris*. After her postdoc, she's doing a cool AAAS fellowship at the EPA.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Daniela.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Daniela Palmer (Postdoc)
 Daniela was an EEB Presidential Postdoc Fellow from 2021 to 2022, doing independent research on insect sex chromosomes. She now is running her own lab at University of Texas, Arlington.
