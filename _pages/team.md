@@ -35,15 +35,6 @@ Pronouns: She/her/hers <br style="margin-bottom:100px;"/>
 ### Adrian Platts (Bioinformatician)
 Adrian started out in the Physical Sciences, gaining a BSc in Physics (specializing in Computational Physics) from the University of Birmingham followed by postgraduate work in novel magnetic materials. In 2004 he switched to a bioscience career initially working on human regulatory elements before moving on to plant genetics at McGill and then New York Universities.  He joined the Josephs lab and the [Edger Lab](https://www.polyploidy.msu.edu/patrick_edger/index.html) in 2020 and balances a home life based in A2 with a work life based around MSU.
 
-<br><br><br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Panko_pic1.jpg){: style="width: 300px; float: left; border: 10px"}
-### Rebecca Panko (Postdoc)
-Rebecca received her PhD from the Federated Department of Biological Sciences at the New Jersey Institute of Technology and Rutgers University-Newark. A long-term resident of Brooklyn, New York, she has a strong interest in urban plant ecology and evolution. Her dissertation work examined how urbanization impacts shepherd’s purse (*Capsella bursa-pastoris*) populations in the New York Metropolitan Area. She is passionate about combating “plant blindness” and enjoys both teaching and community engagement to expose larger audiences to the importance of plants. 
-
-Email: pankoreb [at] msu.edu <br>
-Pronouns: she/her/hers <br>
-Twitter: [@PlantCityEvo](https://twitter.com/PlantCityEvo)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -88,9 +79,12 @@ Email: catlinna [at] msu.edu
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Daniela.jpg){: style="width: 300px; float: left; border: 10px"}
+## Lab Alums
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Panko_pic1.jpg){: style="width: 300px; float: left; border: 10px"}
+### Rebecca Panko (Postdoc)
+Rebecca was a postdoc in the lab from 2020 to 2022 working on local adaptation in urban *Capsella bursa-pastoris*. She left the lab to do a cool AAAS fellowship at the EPA.
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Panko_pic1.jpg){: style="width: 300px; float: left; border: 10px"}
 ### Daniela Palmer (Postdoc)
-Daniela received her PhD from the University of Chicago, and was an NSF postdoc at the University of Sheffield before joining MSU as an MSU Foundation Postdoctoral Fellow in Ecology, Evolution and Behavior. Daniela is broadly interested in genome biology and evolution, particularly in relation to sexual phenotypes. She is currently working with a group of insects known as treehoppers to study sex chromosome turnover and the evolution of chromosome number.
-
-Email: palme217 [at] msu.edu
-
+Daniela was an EEB Presidential Postdoc Fellow from 2021 to 2022, doing independent research on insect sex chromosomes. She now is running her own lab at University of Texas, Arlington.
