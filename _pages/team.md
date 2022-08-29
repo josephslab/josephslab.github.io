@@ -85,6 +85,7 @@ Email: catlinna [at] msu.edu
 ### Rebecca Panko (Postdoc)
 Rebecca was a postdoc in the lab from 2020 to 2022 working on local adaptation in urban *Capsella bursa-pastoris*. She left the lab to do a cool AAAS fellowship at the EPA.
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Panko_pic1.jpg){: style="width: 300px; float: left; border: 10px"}
+<br><br><br><br><br><br><br><br><br><br><br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Daniela.jpg){: style="width: 300px; float: left; border: 10px"}
 ### Daniela Palmer (Postdoc)
 Daniela was an EEB Presidential Postdoc Fellow from 2021 to 2022, doing independent research on insect sex chromosomes. She now is running her own lab at University of Texas, Arlington.
