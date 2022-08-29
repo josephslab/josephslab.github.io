@@ -1,4 +1,4 @@
---
+---
 title: "Josephs Lab - People"
 layout: gridlay
 excerpt: "Josephs Lab: People"
