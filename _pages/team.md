@@ -79,11 +79,20 @@ Email: catlinna [at] msu.edu
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/mia.jpg){: style="width: 300px; float: left; border: 10px"}
+### Mia Stevens (Research Technician)
+Mia Stevens received her B.A. from The College of Wooster in Biology in 2020 studying pollination biology. She then spent two years as a lab manager with The Echinacea Project at the Chicago Botanic Garden studying habitat fragmentation. Broadly she is interested in how plants respond to their environment and is excited to learn new skills during her time with the Josephs lab. In her free time, she likes to explore the great outdoors, knit, and make yummy baked goods.
+
+Email: steve888 [at] msu.edu
+<br>
+Pronouns: she/hers
+
+<br><br><br><br><br><br><br><br><br><br><br>
 ## Lab Alums
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Panko_pic1.jpg){: style="width: 300px; float: left; border: 10px"}
 ### Rebecca Panko (Postdoc)
-Rebecca was a postdoc in the lab from 2020 to 2022 working on local adaptation in urban *Capsella bursa-pastoris*. She left the lab to do a cool AAAS fellowship at the EPA.
+Rebecca was a postdoc in the lab from 2020 to 2022 working on local adaptation in urban *Capsella bursa-pastoris*. After her postdoc, she's doing a cool AAAS fellowship at the EPA.
 
 <br><br><br><br><br><br><br><br><br><br><br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Daniela.jpg){: style="width: 300px; float: left; border: 10px"}
