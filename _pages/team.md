@@ -56,6 +56,7 @@ Sophie is a graduate student in the Plant Biology department and Ecology, Evolut
 Email: buysseso [at] msu.edu
 <br>
 Pronouns: she/her/hers
+<br>
 Fun fact: one of her favorite plants is Puya bereronia
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
@@ -76,7 +77,9 @@ Pronouns: she/her/hers
 Nathan received his PhD from the University of Florida where he studied alternative splicing and gene duplication in rice and its wild relatives. Nathan is broadly interested in comparative genomics and population genomics, specifically how standing genetic variation in natural and breeding populations contribute to phenotypic diversity. Nathan is currently investigating TE insertions in maize and their contributions to trait variation.
 
 Email: catlinna [at] msu.edu
+<br>
 Fun fact: Won 3rd place in an Ice Cream Eating contest!
+
 
 
 <br><br><br><br><br><br><br><br>
@@ -88,6 +91,7 @@ Mia Stevens received her B.A. from The College of Wooster in Biology in 2020 stu
 Email: steve888 [at] msu.edu
 <br>
 Pronouns: she/hers
+<br>
 Fun fact: Has biked from Washington, DC to Pittsburgh, PA!
 
 <br><br><br><br><br><br><br><br>
@@ -95,6 +99,7 @@ Fun fact: Has biked from Washington, DC to Pittsburgh, PA!
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/chrissy.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Christina Miller (Postdoc)
 Chrissy completed her PhD at The University of Queensland, Australia, where she studied the mutational contribution to genotype-by-environment variation in zebrafish. She is currently focusing on plasticity and urban adaptation in Capsella and is broadly interested in the nature of genetic variation across environments that populations might typically encounter. In her free time, Chrissy enjoys camping, hiking, and road trips. 
+<br>
 Email: mill3866@msu.edu
 <br>
 Pronouns: she/her/hers
@@ -111,17 +116,15 @@ Aryman is a sophomore Neuroscience and Human Biology major with a minor in Busin
 ### Mila Vucelic (Undergrad)
 Mila is a sophomore, Neuroscience & Psychology major here at MSU he has been a part of the lab since Fall of 2022. Every summer she goes to Croatia every summer to visit her family there!
 
-<br><br><br><br><br><br><br><br>
-
+<br><br><br>
 ### Trevor Markwood (Undergad)
 Trevor is a sophomore, Environmental Biology major here at MSU he has been a part of the lab since Fall of 2022. He also is very into birdwatching!
 
-<br><br><br><br><br><br><br><br>
-
+<br><br><br>
 ### Evan Adamski (Undergad)
 Evan is a sophomore genetics major here at MSU he has been a part of the lab since January  2023. He also was the 2022 National Cherry Festival Pie Eating Contest winter!
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 ## Lab Alums
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Panko_pic1.jpg){: style="width: 250px; float: left; border: 10px"}
