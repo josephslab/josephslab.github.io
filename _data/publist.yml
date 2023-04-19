@@ -1,3 +1,28 @@
+- title: "Weaker selection on genes with treatment-specific expression consistent with a limit on plasticity evolution in Arabidopsis thaliana"
+  image: partialCorrelations_withTissueSpecificity_leaf.jpg
+  description: "Using 27 terabases of publicly available RNA-sequencing data, we quantified the environment-specificity of gene expression for every gene in the Arabidopsis thaliana genome. We found that genes with more environment-specific expression are under weaker negative selection on average, highlighting potential limits to the evolution of expression plasticity."
+  authors: Miles Roberts, EB Josephs
+  journal: Genetics (2023)
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2022.10.26.513896v2
+    display:  Link
+  highlight: 1
+  news2:
+
+
+- title: "Evaluating niche changes during invasion with seasonal models in Capsella bursa-pastoris"
+  image: mwb_ajbfig.jpg
+  description: "We generated full-year and monthy niche models for Capsella in Europe and North America. We find full-year ecological niche models have low transferability across continents and there are continental differences in the climate conditions that influence the distribution of C. bursa-pastoris. Monthly models have greater predictive accuracy than full-year models in cooler seasons, but no monthly models can predict North American summer occurrences very well."
+  authors: MK Wilson Brown, EB Josephs
+  journal: AJB (2023)
+  link:
+    url: https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.16140
+    display:  Link
+  highlight: 1
+  news2:
+
+
+
 - title: "Adaptive and maladaptive expression plasticity underlying herbicide resistance in an agricultural weed"
   image: morning_glory.jpg
   description: "In collaboration with Gina Baucom's lab at the University of Michigan, we investigated the potential for gene expression responses to herbicide to be adaptive. We used gene expression data from plants that had been grown with and without herbicide, along with expression data from artificial selection experiments for herbicide resistance to show that expression responses are often likely beneficial"
