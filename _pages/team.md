@@ -110,16 +110,13 @@ Pronouns: she/her/hers
 ### Aryman Seghal (Undergrad)
 Aryman is a sophomore Neuroscience and Human Biology major with a minor in Business and Health Promotion here at MSU he has been a part of the lab since Summer 2022. He also is a second degree black belt in American Martial Arts!
 
-<br><br><br><br><br><br><br><br>
-
 ### Mila Vucelic (Undergrad)
 Mila is a sophomore, Neuroscience & Psychology major here at MSU he has been a part of the lab since Fall of 2022. Every summer she goes to Croatia every summer to visit her family there!
 
-<br><br><br>
 ### Trevor Markwood (Undergad)
 Trevor is a sophomore, Environmental Biology major here at MSU he has been a part of the lab since Fall of 2022. He also is very into birdwatching!
 
-<br><br><br>
+
 ### Evan Adamski (Undergad)
 Evan is a sophomore genetics major here at MSU he has been a part of the lab since January  2023. He also was the 2022 National Cherry Festival Pie Eating Contest winter!
 
