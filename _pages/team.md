@@ -113,14 +113,14 @@ Aryman is a sophomore Neuroscience and Human Biology major with a minor in Busin
 ### Mila Vucelic (Undergrad)
 Mila is a sophomore, Neuroscience & Psychology major here at MSU he has been a part of the lab since Fall of 2022. Every summer she goes to Croatia every summer to visit her family there!
 
-### Trevor Markwood (Undergad)
+### Trevor Markwood (Undergrad)
 Trevor is a sophomore, Environmental Biology major here at MSU he has been a part of the lab since Fall of 2022. He also is very into birdwatching!
 
 
-### Evan Adamski (Undergad)
-Evan is a sophomore genetics major here at MSU he has been a part of the lab since January  2023. He also was the 2022 National Cherry Festival Pie Eating Contest winter!
+### Evan Adamski (Undergrad)
+Evan is a sophomore genetics major here at MSU he has been a part of the lab since January  2023. He also was the 2022 National Cherry Festival Pie Eating Contest winner!
 
-<br><br><br><br><br>
+<br>
 ## Lab Alums
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Panko_pic1.jpg){: style="width: 250px; float: left; border: 10px"}
