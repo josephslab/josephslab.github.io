@@ -16,7 +16,6 @@ permalink: /people/
 Emily is as an assistant professor in the Plant Bio dept at Michigan State University. She received a PhD from the University of Toronto and was a postdoc at the University of California, Davis. Emily is generally excited about all things population and quantitative genetics, swimming, biking, and camping. 
 
 Email: josep993@msu.edu <br>
-Twitter: [@emjosephs](https://twitter.com/emjosephs)  
 Github: [emjosephs](https://github.com/emjosephs/) <br>
 Pronouns: She/her/hers
 
