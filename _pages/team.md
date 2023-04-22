@@ -62,7 +62,7 @@ Fun fact: one of her favorite plants is Puya bereronia
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/asia.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Asia Hightower (Graduate Student)
-Asia is a graduate student in the Plant Biology program PhD program at MSU. She completed her B.A. and MS.c at Wayne State university where she majored in Biological sciences with a concentration evolutionary and developmental biology. Her master’s research focused on the developmental mechanism for floral meristem termination in dioecious *Spinacia oleracea*. Her main interests now include comparative leaf morphology and herbarium studies. In her free time, Asia is looking to improve her science communication skills and getting to know the East Lansing area.
+Asia is a graduate student in the Plant Biology program PhD program at MSU. She completed her B.A. and MSc. at Wayne State university where she majored in Biological sciences with a concentration of evolutionary and developmental biology. Her master’s research focused on the developmental mechanism for floral meristem termination in dioecious *Spinacia oleracea*. Her main interests now include comparative leaf morphology and herbarium studies. In her free time, Asia is looking to improve her science communication skills and getting to know the East Lansing area.
 
 email: highto29 [at] msu.edu
 <br>
@@ -111,16 +111,14 @@ Pronouns: she/her/hers
 Aryman is a sophomore Neuroscience and Human Biology major with a minor in Business and Health Promotion here at MSU he has been a part of the lab since Summer 2022. He also is a second degree black belt in American Martial Arts!
 
 ### Mila Vucelic (Undergrad)
-Mila is a sophomore, Neuroscience & Psychology major here at MSU he has been a part of the lab since Fall of 2022. Every summer she goes to Croatia every summer to visit her family there!
+Mila is a sophomore, Neuroscience & Psychology major here at MSU he has been a part of the lab since Fall of 2022. Every summer she goes to Croatia to visit her family there!
 
 ### Trevor Markwood (Undergrad)
 Trevor is a sophomore, Environmental Biology major here at MSU he has been a part of the lab since Fall of 2022. He also is very into birdwatching!
 
-
 ### Evan Adamski (Undergrad)
 Evan is a sophomore genetics major here at MSU he has been a part of the lab since January  2023. He also was the 2022 National Cherry Festival Pie Eating Contest winner!
 
-<br>
 ## Lab Alums
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Panko_pic1.jpg){: style="width: 250px; float: left; border: 10px"}
