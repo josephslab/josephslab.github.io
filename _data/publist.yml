@@ -1,5 +1,5 @@
 - title: "Weaker selection on genes with treatment-specific expression consistent with a limit on plasticity evolution in Arabidopsis thaliana"
-  image: partialCorrelations_withTissueSpecificity_leaf.jpg
+  image: partialCorrelations_withTissueSpecificity_leaf.png
   description: "Using 27 terabases of publicly available RNA-sequencing data, we quantified the environment-specificity of gene expression for every gene in the Arabidopsis thaliana genome. We found that genes with more environment-specific expression are under weaker negative selection on average, highlighting potential limits to the evolution of expression plasticity."
   authors: Miles Roberts, EB Josephs
   journal: Genetics (2023)
