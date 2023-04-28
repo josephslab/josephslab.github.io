@@ -42,9 +42,9 @@ Adrian started out in the Physical Sciences, gaining a BSc in Physics (specializ
 ### Miles Roberts (Graduate Student)
 Miles is a graduate student in the Genetics and Genome Sciences program at MSU. He completed his B.S. at Washington State University where he majored in Biology and minored in Chemistry, Mathematics, and Quantitative Biology. His research interests include the evolution of gene expression, the determinants of genetic diversity, and disentangling selective and demographic processes. In his free time, Miles enjoys watching horrible movies and making equally horrible puns.
 
-Personal Website: https://milesroberts-123.github.io/
+[Personal Website](https://milesroberts-123.github.io/)
 <br>
-Github: https://github.com/milesroberts-123
+[Github](https://github.com/milesroberts-123)
 <br>
 Twitter: [at]MilesDaRoberts
 <br>
@@ -52,7 +52,7 @@ Email: robe1195 [at] msu.edu
 <br>
 Pronouns: he/him/his
 <br>
-Fun fact: Miles was once stranded in the Washington wilderness but got saved by the boyscouts!
+Fun fact: Miles was once stranded in the Washington wilderness but got saved by the Boy Scouts!
 
 <br><br><br><br><br><br><br><br><br>
 
