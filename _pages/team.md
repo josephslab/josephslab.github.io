@@ -61,7 +61,7 @@ Fun fact: Miles was once stranded in the Washington wilderness but got saved by 
 ### Sophie Buysse (Graduate Student)
 Sophie is a graduate student in the Plant Biology department and Ecology, Evolution, and Behavior dual degree program at MSU and she is cosupervised by Jeff Conner. She completed her B.A. in Biology at the College of St. Benedict and St. John’s University in Minnesota. Her research centers on the role of phenotypic plasticity in adaptation and evolution. Outside the lab, Sophie enjoys hiking, cross country skiing, gardening, and cooking.
 
-Personal Website: https://sfbuysse.github.io/
+[Personal Website](https://sfbuysse.github.io/)
 <br>
 Email: buysseso [at] msu.edu
 <br>
