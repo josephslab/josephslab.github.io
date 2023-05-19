@@ -12,9 +12,11 @@ Imagine your favorite place to be on a sunny afternoon- likely, you are imaginin
  
 Urban environments can stress many plants and animals. For example, cities are often hotter and have poorer soil, making it difficult for plants to grow. As plants contribute to the lives of many insects, birds, and mammals, a lack of plant diversity will also cause a decline in overall biodiversity.
 
-<img src='/images/capsellaSidewalk.jpeg' style='max-width: 500px' alt='A Capsella bursa-pastoris growing next to a storm drain' class='Center'/>
+<img src='/images/capsellaSidewalk.jpeg' style='max-width: 250px' alt='A Capsella bursa-pastoris growing next to a storm drain' class='Center'/>
 
 However, there are some plant species that thrive in stressful urban environments. One of these species is the Shepherd’s purse (*Capsella bursa-pastoris*). Shepherd’s purse is native to Europe and Asia, but it has colonized North America. 
+
+<img src='/images/Lizardcarpark.jpg' style='max-width: 250px' alt='A Capsella bursa-pastoris growing next to a trash bin' class='Center'/>
 
 We are trying to understand how Shepherd's Purse got here and why it's able to do so well in cities. We're particulary interested in how these plants can change in response to harsh conditions, an ability called "phenotypic plasticity". Understanding how phenotypic plasticity helps plants persist in stressful environments will be important for not only studying cities, but learning about how all types of organisms will cope with a changing world.
   
