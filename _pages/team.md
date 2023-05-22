@@ -94,7 +94,7 @@ Fun fact: Won 3rd place in an Ice Cream Eating contest!
 
 <br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/mia.jpg){: style="width: 250px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/miaAndSparty.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Mia Stevens (Research Technician)
 Mia Stevens received her B.A. from The College of Wooster in Biology in 2020 studying pollination biology. She then spent two years as a lab manager with The Echinacea Project at the Chicago Botanic Garden studying habitat fragmentation. Broadly she is interested in how plants respond to their environment and is excited to learn new skills during her time with the Josephs lab. In her free time, she likes to explore the great outdoors, knit, and make yummy baked goods.
 
