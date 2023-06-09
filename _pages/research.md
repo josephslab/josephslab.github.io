@@ -46,7 +46,9 @@ We are open to working in a number of crop or wild plant species. Some lab favor
 
 ## Talks
 
-To learn more about our research, check out these recorded conference talks:
+To learn more about our research, check out these recorded conference talks on the **[Josephs Lab youtube channel](https://www.youtube.com/@josephslab2242)!!!**
+
+Additional talks:
 
 * Emily Josephs - "The contribution of local adaptation to GxE" - Evolution 2019
 
