@@ -8,8 +8,6 @@ permalink: /people/
 
 # People in the Lab
 
-
-
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/me.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Emily Josephs (PI)
 
