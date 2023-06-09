@@ -77,7 +77,7 @@ email: highto29 [at] msu.edu
 <br>
 Pronouns: she/her/hers
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/nate.png){: style="width: 250px; float: left; border: 10px"}
