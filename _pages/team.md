@@ -114,7 +114,7 @@ Pronouns: she/her/hers
 
 <br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/maggie.png){: style="width: 250px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/magie.png){: style="width: 250px; float: left; border: 10px"}
 ### Magie Williams (Tech)
 Magie is an Michigan State University Alumni, obtaining an B.S. in Plant Biology, and a second in Biochemistry and Molecular Biology, focusing on mRNA alternative coding bias. She also has a MSc from Queen Mary University of London, studying cryptic taxa in the species Dioscorea sylvatica at the Royal Botanic Garden’s Kew. This was followed by a position in the Great Lakes Bioenergy Research Center. Broadly, Magie’s interests are focused on the adaptive response of plants in the context of larger environmental changes and rapid evolution. In their free time, Magie enjoys hiking, lounging, and spending time with her 3 cats.  
 <br>
