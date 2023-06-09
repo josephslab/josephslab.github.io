@@ -17,7 +17,7 @@ Emily is as an assistant professor in the Plant Bio dept at Michigan State Unive
 
 Email: josep993@msu.edu <br>
 Github: [emjosephs](https://github.com/emjosephs/) <br>
-Pronouns: She/her/hers
+Pronouns: She/her
 
 <br><br><br>
 
@@ -92,7 +92,7 @@ Fun fact: Won 3rd place in an Ice Cream Eating contest!
 
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/miaAndSparty.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Mia Stevens (Research Technician)
@@ -121,7 +121,8 @@ Pronouns: she/her/hers
 Magie is an Michigan State University Alumni, obtaining an B.S. in Plant Biology, and a second in Biochemistry and Molecular Biology, focusing on mRNA alternative coding bias. She also has a MSc from Queen Mary University of London, studying cryptic taxa in the species Dioscorea sylvatica at the Royal Botanic Garden’s Kew. This was followed by a position in the Great Lakes Bioenergy Research Center. Broadly, Magie’s interests are focused on the adaptive response of plants in the context of larger environmental changes and rapid evolution. In their free time, Magie enjoys hiking, lounging, and spending time with her 3 cats.  
 <br>
 Email: will2778@msu.edu
-
+<br>
+Pronouns: she/they
 
 
 <br><br><br><br><br><br><br><br>
