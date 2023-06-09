@@ -44,7 +44,7 @@ We are open to working in a number of crop or wild plant species. Some lab favor
 ***Chamaecrista fasciculata*** (Partridge pea) is a legume common in North America. It is a classic system in evolutionary ecology. The lab is currently part of a large collaborative project to investigate how *C. fasciculata* populations may respond to climate change. 
 
 
-<br><br><br>
+<br><br><br><br><br>
 
 ## Talks
 
