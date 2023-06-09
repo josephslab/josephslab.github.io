@@ -29,7 +29,7 @@ We are open to working in a number of crop or wild plant species. Some lab favor
 ***Capsella bursa-pastoris*** ('Shepherd's Purse') is a small weedy annual species that's found worldwide, especially in disturbed environments. It often gets mistaken for its Brassicaceous relative Arabidopsis, but it is much cooler than Arabidopsis. It's also an allo-polyploid. At the moment, members of the lab are investigating how *C. bursa-pastoris* established in North American cities, the genetic and environmental factors underlying leaf-shape variation, and introgression between *C. bursa-pastoris* and its close relatives.
 
 </div>
-<br><br><br>
+<br><br><br><br><br>
 <div>
 
 <img src = "{{ site.url}}{{ site.baseurl}}/images/flintydenty.jpeg" class="img-responsive" width = "15%" style="float: left; padding-right: 20px" />
@@ -44,6 +44,7 @@ We are open to working in a number of crop or wild plant species. Some lab favor
 ***Chamaecrista fasciculata*** (Partridge pea) is a legume common in North America. It is a classic system in evolutionary ecology. The lab is currently part of a large collaborative project to investigate how *C. fasciculata* populations may respond to climate change. 
 
 
+<br><br><br>
 
 ## Talks
 
