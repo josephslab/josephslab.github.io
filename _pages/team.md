@@ -130,7 +130,8 @@ Pronouns: she/they
 <br><br><br><br><br><br><br><br>
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2023.jpg){: style="width: 250px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2023.jpg){: style="width: 500px; float: center; border: 10px"}
+<br>
 Left to right: Evan, Kennedy, Claire, Claudia, Tianyi
 <br><br>
 ### Evan Adamski (Undergrad)
@@ -159,6 +160,8 @@ Rebecca was a postdoc in the lab from 2020 to 2022 working on local adaptation i
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Daniela.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Daniela Palmer (Postdoc)
 Daniela was an EEB Presidential Postdoc Fellow from 2021 to 2022, doing independent research on insect sex chromosomes. She now is running her own lab at University of Texas, Arlington.
+
+<br><br><br><br><br><br><br><br>
 
 ### Aryman Seghal (Undergrad)
 Aryman is a sophomore Neuroscience and Human Biology major with a minor in Business and Health Promotion here at MSU he has been a part of the lab since Summer 2022. He also is a second degree black belt in American Martial Arts!
