@@ -25,6 +25,8 @@ Maya got her B.S. in Biology at Duke University studying hybrid seed incompatibi
 
 Email: wils1582@msu.edu <br>
 Pronouns: She/her/hers <br style="margin-bottom:100px;"/>
+<br>
+Fun fact: Hates the color blue!
 
 <br><br><br><br>
 
@@ -76,6 +78,8 @@ Asia is a graduate student in the Plant Biology program PhD program at MSU. She 
 email: highto29 [at] msu.edu
 <br>
 Pronouns: she/her/hers
+<br>
+Fun fact: Is allergic to gold!
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -98,7 +102,7 @@ Mia Stevens received her B.A. from The College of Wooster in Biology in 2020 stu
 
 Email: steve888 [at] msu.edu
 <br>
-Pronouns: she/hers
+Pronouns: she/they
 <br>
 Fun fact: Has biked from Washington, DC to Pittsburgh, PA!
 
@@ -125,17 +129,25 @@ Pronouns: she/they
 
 <br><br><br><br><br><br><br><br>
 
-### Aryman Seghal (Undergrad)
-Aryman is a sophomore Neuroscience and Human Biology major with a minor in Business and Health Promotion here at MSU he has been a part of the lab since Summer 2022. He also is a second degree black belt in American Martial Arts!
 
-### Mila Vucelic (Undergrad)
-Mila is a sophomore, Neuroscience & Psychology major here at MSU he has been a part of the lab since Fall of 2022. Every summer she goes to Croatia to visit her family there!
-
-### Trevor Markwood (Undergrad)
-Trevor is a sophomore, Environmental Biology major here at MSU he has been a part of the lab since Fall of 2022. He also is very into birdwatching!
-
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2023.jpg){: style="width: 250px; float: left; border: 10px"}
+Left to right: Evan, Kennedy, Claire, Claudia, Tianyi
+<br><br>
 ### Evan Adamski (Undergrad)
-Evan is a sophomore genetics major here at MSU he has been a part of the lab since January  2023. He also was the 2022 National Cherry Festival Pie Eating Contest winner!
+Evan is a junior Genetics major here at MSU he has been a part of the lab since January  2023. He also was the 2022 National Cherry Festival Pie Eating Contest winner!
+
+### Claudia Colligan (Undergrad)
+Claudia is a junior Human Biology major here at MSU she has been a part of the lab since May 2023. She has never broken a bone!
+
+### Kennedy Barnes (Undergrad)
+Kennedy is a junior Global Health & Nutrition major here at MSU she has been a part of the lab since May 2023. She loves to bake cinnamon rolls.
+
+### Tianyi (Tim) Xia (Undergrad)
+Tianyi is a senior Physiology major here at MSU he has been a part of the lab since May  2023. He also has never been lost!
+
+### Claire Henley (Undergrad)
+Claire is a senior majoring in Environmental Biology & Plant Biology here at MSU she has been a part of the lab since May  2023. She has caught baby alligators!
+
 
 ## Lab Alums
 
@@ -147,3 +159,12 @@ Rebecca was a postdoc in the lab from 2020 to 2022 working on local adaptation i
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Daniela.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Daniela Palmer (Postdoc)
 Daniela was an EEB Presidential Postdoc Fellow from 2021 to 2022, doing independent research on insect sex chromosomes. She now is running her own lab at University of Texas, Arlington.
+
+### Aryman Seghal (Undergrad)
+Aryman is a sophomore Neuroscience and Human Biology major with a minor in Business and Health Promotion here at MSU he has been a part of the lab since Summer 2022. He also is a second degree black belt in American Martial Arts!
+
+### Mila Vucelic (Undergrad)
+Mila is a sophomore, Neuroscience & Psychology major here at MSU he has been a part of the lab since Fall of 2022. Every summer she goes to Croatia to visit her family there!
+
+### Trevor Markwood (Undergrad)
+Trevor is a sophomore, Environmental Biology major here at MSU he has been a part of the lab since Fall of 2022. He also is very into birdwatching!
