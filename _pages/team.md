@@ -26,7 +26,7 @@ Maya got her B.S. in Biology at Duke University studying hybrid seed incompatibi
 Email: wils1582@msu.edu <br>
 Pronouns: She/her/hers <br style="margin-bottom:100px;"/>
 <br>
-/t Fun fact: Hates the color blue!
+/tab Fun fact: Hates the color blue!
 
 <br><br><br><br>
 
@@ -132,7 +132,7 @@ Pronouns: she/they
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2023.jpg){: style="width: 500px; float: center; border: 10px"}
 <br>
-Left to right: Evan, Kennedy, Claire, Claudia, Tianyi
+Left to right: Kennedy, Athena, Claudia, Evan, Claire,  Tianyi
 <br><br>
 ### Evan Adamski (Undergrad)
 Evan is a junior Genetics major here at MSU he has been a part of the lab since January  2023. He also was the 2022 National Cherry Festival Pie Eating Contest winner!
