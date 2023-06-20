@@ -26,7 +26,7 @@ Maya got her B.S. in Biology at Duke University studying hybrid seed incompatibi
 Email: wils1582@msu.edu <br>
 Pronouns: She/her/hers <br style="margin-bottom:100px;"/>
 <br>
-Fun fact: Hates the color blue!
+/t Fun fact: Hates the color blue!
 
 <br><br><br><br>
 
@@ -104,7 +104,7 @@ Email: steve888 [at] msu.edu
 <br>
 Pronouns: she/they
 <br>
-Fun fact: Has biked from Washington, DC to Pittsburgh, PA!
+Fun fact: Has won a dance battle! (song was Rain on me by Lady Gaga ft. Ariana Grande)
 
 <br><br><br><br><br>
 
@@ -144,10 +144,14 @@ Claudia is a junior Human Biology major here at MSU she has been a part of the l
 Kennedy is a junior Global Health & Nutrition major here at MSU she has been a part of the lab since May 2023. She loves to bake cinnamon rolls.
 
 ### Tianyi (Tim) Xia (Undergrad)
-Tianyi is a senior Physiology major here at MSU he has been a part of the lab since May  2023. He also has never been lost!
+Tianyi is a senior Physiology major here at MSU he has been a part of the lab since May 2023. He also has never been lost!
 
 ### Claire Henley (Undergrad)
 Claire is a senior majoring in Environmental Biology & Plant Biology here at MSU she has been a part of the lab since May  2023. She has caught baby alligators!
+
+### Athena Dila (REU Student)
+Athena is a first-year majoring in Biology  here at MSU she has been a part of the lab since June 2023. Her favorite food is carbs!
+
 
 
 ## Lab Alums
@@ -161,7 +165,7 @@ Rebecca was a postdoc in the lab from 2020 to 2022 working on local adaptation i
 ### Daniela Palmer (Postdoc)
 Daniela was an EEB Presidential Postdoc Fellow from 2021 to 2022, doing independent research on insect sex chromosomes. She now is running her own lab at University of Texas, Arlington.
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ### Aryman Seghal (Undergrad)
 Aryman is a sophomore Neuroscience and Human Biology major with a minor in Business and Health Promotion here at MSU he has been a part of the lab since Summer 2022. He also is a second degree black belt in American Martial Arts!
