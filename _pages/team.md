@@ -92,20 +92,6 @@ Email: catlinna [at] msu.edu
 <br>
 Fun fact: Won 3rd place in an Ice Cream Eating contest!
 
-
-
-<br><br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/miaAndSparty.jpg){: style="width: 250px; float: left; border: 10px"}
-### Mia Stevens (Research Technician)
-Mia Stevens received her B.A. from The College of Wooster in Biology in 2020 studying pollination biology. She then spent two years as a lab manager with The Echinacea Project at the Chicago Botanic Garden studying habitat fragmentation. Broadly she is interested in how plants respond to their environment and is excited to learn new skills during her time with the Josephs lab. In her free time, she likes to explore the great outdoors, knit, and make yummy baked goods.
-
-Email: steve888 [at] msu.edu
-<br>
-Pronouns: she/they
-<br>
-Fun fact: Has won a dance battle! (song was Rain on me by Lady Gaga ft. Ariana Grande)
-
 <br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/chrissy.jpg){: style="width: 250px; float: left; border: 10px"}
@@ -165,6 +151,17 @@ Rebecca was a postdoc in the lab from 2020 to 2022 working on local adaptation i
 ### Daniela Palmer (Postdoc)
 Daniela was an EEB Presidential Postdoc Fellow from 2021 to 2022, doing independent research on insect sex chromosomes. She now is running her own lab at University of Texas, Arlington.
 
+<br><br><br><br><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/miaAndSparty.jpg){: style="width: 250px; float: left; border: 10px"}
+### Mia Stevens (Research Technician)
+Mia Stevens received her B.A. from The College of Wooster in Biology in 2020 studying pollination biology. She then spent two years as a lab manager with The Echinacea Project at the Chicago Botanic Garden studying habitat fragmentation. Broadly she is interested in how plants respond to their environment and is excited to learn new skills during her time with the Josephs lab. In her free time, she likes to explore the great outdoors, knit, and make yummy baked goods.
+
+Email: steve888 [at] msu.edu
+<br>
+Pronouns: she/they
+<br>
+Fun fact: Has won a dance battle! (song was Rain on me by Lady Gaga ft. Ariana Grande)
 <br><br><br><br><br><br><br><br><br><br>
 
 ### Aryman Seghal (Undergrad)
