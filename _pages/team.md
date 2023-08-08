@@ -115,6 +115,16 @@ Pronouns: she/they
 
 <br><br><br><br><br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/gabbie.png){: style="width: 250px; float: left; border: 10px"}
+### Gabbie Sandstedt (Postdoc)
+Gabbie received her PhD in Genetics from the University of Georgia, where she studied evolutionary drivers of reproductive isolation in Mimulus. Currently, Gabbie is an NSF Postdoctoral Fellow located at Utah State University, where she is co-advised by Dr. Catherine Rushworth. While still broadly interested in speciation, her research now focuses on ecological and genetic mechanisms that contribute to hybrid vigor in Boechera. In her free time, Gabbie enjoys hiking, paddle boarding, and listening to audiobooks.
+<br>
+Email: gabrielle.sandstedt[at]usu.edu
+<br>
+Fun Fact: She can talk about her cat, Otto, for hours.
+
+<br><br><br><br><br><br><br><br>
+
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2023.jpg){: style="width: 500px; float: center; border: 10px"}
 <br>
