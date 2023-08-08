@@ -118,8 +118,10 @@ Pronouns: she/they
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/gabbie.png){: style="width: 250px; float: left; border: 10px"}
 ### Gabbie Sandstedt (Postdoc)
 Gabbie received her PhD in Genetics from the University of Georgia, where she studied evolutionary drivers of reproductive isolation in Mimulus. Currently, Gabbie is an NSF Postdoctoral Fellow located at Utah State University, where she is co-advised by Dr. Catherine Rushworth. While still broadly interested in speciation, her research now focuses on ecological and genetic mechanisms that contribute to hybrid vigor in Boechera. In her free time, Gabbie enjoys hiking, paddle boarding, and listening to audiobooks.
+
 <br>
 Email: gabrielle.sandstedt[at]usu.edu
+
 <br>
 Fun Fact: She can talk about her cat, Otto, for hours.
 
@@ -161,7 +163,7 @@ Rebecca was a postdoc in the lab from 2020 to 2022 working on local adaptation i
 ### Daniela Palmer (Postdoc)
 Daniela was an EEB Presidential Postdoc Fellow from 2021 to 2022, doing independent research on insect sex chromosomes. She now is running her own lab at University of Texas, Arlington.
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/miaAndSparty.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Mia Stevens (Research Technician)
