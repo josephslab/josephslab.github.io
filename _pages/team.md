@@ -141,14 +141,8 @@ Claudia is a junior Human Biology major here at MSU she has been a part of the l
 ### Kennedy Barnes (Undergrad)
 Kennedy is a junior Global Health & Nutrition major here at MSU she has been a part of the lab since May 2023. She loves to bake cinnamon rolls.
 
-### Tianyi (Tim) Xia (Undergrad)
-Tianyi is a senior Physiology major here at MSU he has been a part of the lab since May 2023. He also has never been lost!
-
 ### Claire Henley (Undergrad)
 Claire is a senior majoring in Environmental Biology & Plant Biology here at MSU she has been a part of the lab since May  2023. She has caught baby alligators!
-
-### Athena Dila (REU Student)
-Athena is a first-year majoring in Biology  here at MSU she has been a part of the lab since June 2023. Her favorite food is carbs!
 
 
 
@@ -184,3 +178,9 @@ Mila is a sophomore, Neuroscience & Psychology major here at MSU he has been a p
 
 ### Trevor Markwood (Undergrad)
 Trevor is a sophomore, Environmental Biology major here at MSU he has been a part of the lab since Fall of 2022. He also is very into birdwatching!
+
+### Tianyi (Tim) Xia (Undergrad)
+Tianyi is a senior Physiology major here at MSU he has been a part of the lab since May 2023. He also has never been lost!
+
+### Athena Dila (REU Student - summer 2023)
+Athena is a first-year majoring in Biology  here at MSU she has been a part of the lab since June 2023. Her favorite food is carbs!
