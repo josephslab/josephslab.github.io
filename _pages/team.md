@@ -127,6 +127,14 @@ Fun Fact: She can talk about her cat, Otto, for hours.
 
 <br><br><br><br><br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/husain.jpg){: style="width: 250px; float: left; border: 10px"}
+### Husain I. Agha (Postdoc)
+Husain received his PhD in Plant and Microbial Biology from the Univesity of Minnesota in 2023 where he studied genotype-by-environment interaction in wild and domesticated potato. Currently, he is a ghost-doc working remotely from the University of Minnesota campus. Husain's postdoc research will broadly focus on phenotypic plasticity and its affect on quantitative traits. In his free time, Husain plays chess, listens to podcasts, and cycling. 
+<br>
+Email: aghahus1@msu.edu <br>
+Pronouns: him/his <br style="margin-bottom:100px;"/>
+
+<br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2023.jpg){: style="width: 500px; float: center; border: 10px"}
 <br>
@@ -169,6 +177,7 @@ Pronouns: she/they
 <br>
 Fun fact: Has won a dance battle! (song was Rain on me by Lady Gaga ft. Ariana Grande)
 <br><br><br><br><br><br><br><br><br><br>
+
 
 ### Aryman Seghal (Undergrad)
 Aryman is a sophomore Neuroscience and Human Biology major with a minor in Business and Health Promotion here at MSU he has been a part of the lab since Summer 2022. He also is a second degree black belt in American Martial Arts!
