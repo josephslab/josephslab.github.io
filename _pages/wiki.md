@@ -27,9 +27,9 @@ To do more complicated things, you’ll need to move to a **DEVELOPMENT NODE**.
 
 You can choose a development node yourself and move to it. 
 
-For example, if you wanted to move to _dev-intel14.i_, the command would be
+For example, if you wanted to move to _dev-intel18.i_, the command would be
 ```
-ssh dev-intel14
+ssh dev-intel18
 ```
 
 The second way is to have the least burdened node chosen for you. You will need to first load the module powetools
