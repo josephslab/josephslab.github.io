@@ -26,7 +26,7 @@ Maya got her B.S. in Biology at Duke University studying hybrid seed incompatibi
 Email: wils1582@msu.edu <br>
 Pronouns: She/her/hers <br style="margin-bottom:100px;"/>
 <br>
-/tab Fun fact: Hates the color blue!
+Fun fact: Hates the color blue!
 
 <br><br><br><br>
 
@@ -146,9 +146,6 @@ Evan is a junior Genetics major here at MSU he has been a part of the lab since 
 ### Claudia Colligan (Undergrad)
 Claudia is a junior Human Biology major here at MSU she has been a part of the lab since May 2023. She has never broken a bone!
 
-### Kennedy Barnes (Undergrad)
-Kennedy is a junior Global Health & Nutrition major here at MSU she has been a part of the lab since May 2023. She loves to bake cinnamon rolls.
-
 ### Claire Henley (Undergrad)
 Claire is a senior majoring in Environmental Biology & Plant Biology here at MSU she has been a part of the lab since May  2023. She has caught baby alligators!
 
@@ -178,6 +175,9 @@ Pronouns: she/they
 Fun fact: Has won a dance battle! (song was Rain on me by Lady Gaga ft. Ariana Grande)
 <br><br><br><br><br><br><br><br><br><br>
 
+
+### Kennedy Barnes (Undergrad)
+Kennedy is a junior Global Health & Nutrition major here at MSU she has been a part of the lab since May 2023. She loves to bake cinnamon rolls.
 
 ### Aryman Seghal (Undergrad)
 Aryman is a sophomore Neuroscience and Human Biology major with a minor in Business and Health Promotion here at MSU he has been a part of the lab since Summer 2022. He also is a second degree black belt in American Martial Arts!
