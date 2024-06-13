@@ -26,7 +26,7 @@ Maya got her B.S. in Biology at Duke University studying hybrid seed incompatibi
 Email: wils1582@msu.edu <br>
 Pronouns: She/her/hers <br style="margin-bottom:100px;"/>
 <br>
-Fun fact: Hates the color blue!
+Fun fact: Maya wants to catch a fish with her bare hands. The fish has to be at least 6 inches in length.
 
 <br><br><br><br>
 
@@ -105,8 +105,8 @@ Pronouns: she/her/hers
 <br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/magie.png){: style="width: 250px; float: left; border: 10px"}
-### Magie Williams (Tech)
-Magie is an Michigan State University Alumni, obtaining an B.S. in Plant Biology, and a second in Biochemistry and Molecular Biology, focusing on mRNA alternative coding bias. She also has a MSc from Queen Mary University of London, studying cryptic taxa in the species Dioscorea sylvatica at the Royal Botanic Garden’s Kew. This was followed by a position in the Great Lakes Bioenergy Research Center. Broadly, Magie’s interests are focused on the adaptive response of plants in the context of larger environmental changes and rapid evolution. In their free time, Magie enjoys hiking, lounging, and spending time with her 3 cats.  
+### Magie Williams (Graduate Student)
+Magie is an Michigan State University Alumni, obtaining an B.S. in Plant Biology, and a second in Biochemistry and Molecular Biology, focusing on mRNA alternative coding bias. She also has a MSc from Queen Mary University of London, studying cryptic taxa in the species Dioscorea sylvatica at the Royal Botanic Garden’s Kew. This was followed by a position in the Great Lakes Bioenergy Research Center. Magie started as a research technician in our lab and is now a graduate student! Broadly, Magie’s interests are focused on the adaptive response of plants in the context of larger environmental changes and rapid evolution. In their free time, Magie enjoys hiking, lounging, and spending time with her 3 cats.  
 <br>
 Email: will2778@msu.edu
 <br>
@@ -136,18 +136,36 @@ Pronouns: him/his <br style="margin-bottom:100px;"/>
 
 <br><br><br><br>
 
+### Claire Henley (Research Technician)
+Claire graduated from MSU with a major in Environmental Biology & Plant Biology. She worked with us as an undergrad and has transitioned to a research technician! She has been a part of the lab since May 2023. 
+</br>
+Fun Fact: She has caught baby alligators!
+
+<br><br><br><br><br><br>
+
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2023.jpg){: style="width: 500px; float: center; border: 10px"}
 <br>
 Left to right: Kennedy, Athena, Claudia, Evan, Claire,  Tianyi
 <br><br>
 ### Evan Adamski (Undergrad)
-Evan is a junior Genetics major here at MSU he has been a part of the lab since January  2023. He also was the 2022 National Cherry Festival Pie Eating Contest winner!
+Evan is a senior Genetics major here at MSU he has been a part of the lab since January 2023. He also was the 2022 National Cherry Festival Pie Eating Contest winner!
 
 ### Claudia Colligan (Undergrad)
-Claudia is a junior Human Biology major here at MSU she has been a part of the lab since May 2023. She has never broken a bone!
+Claudia is a senior Biology major here at MSU; she has been a part of the lab since May 2023. She only wear a contact in one eyeball.
 
-### Claire Henley (Undergrad)
-Claire is a senior majoring in Environmental Biology & Plant Biology here at MSU she has been a part of the lab since May  2023. She has caught baby alligators!
+### Gabriel Dunn (Undergrad)
+Gabe is a junior Environmental Biology/ZOO major here at MSU but is switching his major to Chemical Engineering. Gabe has been in the lab since January 2024. He is also the Best DJ in East Lansing (Name: AD MORTEM).
+
+### Sophia Lanning (Undergrad)
+Sophia is a senior Biochemistry and Molecular Biology major at MSU. She has been part of the lab since May 2024. Sophia is left handed!
+
+### Basia Love (Undergrad)
+Basia is a junior at MSU majoring in Plant Biology with a minor in Horticulture. She has been int he lab since May 2024. Some of her main hobbies include cross-stitching, crocheting, and photography.
+
+### John Ready (REU student - summer 2024)
+John is a junior at XXX majoring in biology with a genomics minor. He joined our lab in June 2024. In his free time he plays ultimate frisbee and rides bikes!
+
+
 
 
 
@@ -192,4 +210,7 @@ Trevor is a sophomore, Environmental Biology major here at MSU he has been a par
 Tianyi is a senior Physiology major here at MSU he has been a part of the lab since May 2023. He also has never been lost!
 
 ### Athena Dila (REU Student - summer 2023)
-Athena is a first-year majoring in Biology  here at MSU she has been a part of the lab since June 2023. Her favorite food is carbs!
+Athena is a first-year majoring in Biology at the University of Michigan. She has been a part of the lab since June 2023. Her favorite food is carbs!
+
+### Sophie Cleland (Undergrad)
+Sophie is a senior majoring in Human biology. She has been part of the lab since November 2023. She recently graduated and is heading to graduate school!
