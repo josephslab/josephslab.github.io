@@ -163,7 +163,7 @@ Sophia is a senior Biochemistry and Molecular Biology major at MSU. She has been
 Basia is a junior at MSU majoring in Plant Biology with a minor in Horticulture. She has been int he lab since May 2024. Some of her main hobbies include cross-stitching, crocheting, and photography.
 
 ### John Ready (REU student - summer 2024)
-John is a junior at XXX majoring in biology with a genomics minor. He joined our lab in June 2024. In his free time he plays ultimate frisbee and rides bikes!
+John is a junior at Davidson College majoring in biology with a genomics minor. He joined our lab in June 2024. In his free time he plays ultimate frisbee and rides bikes!
 
 
 
