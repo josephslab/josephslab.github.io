@@ -143,9 +143,9 @@ Fun Fact: She has caught baby alligators!
 
 <br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2023.jpg){: style="width: 500px; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2024.jpg){: style="width: 500px; float: center; border: 10px"}
 <br>
-Left to right: Kennedy, Athena, Claudia, Evan, Claire,  Tianyi
+(some) Summer 2024 Undergraduates; left to right: Claudia,Gabriel, John, Sophia
 <br><br>
 ### Evan Adamski (Undergrad)
 Evan is a senior Genetics major here at MSU he has been a part of the lab since January 2023. He also was the 2022 National Cherry Festival Pie Eating Contest winner!
@@ -192,6 +192,12 @@ Pronouns: she/they
 <br>
 Fun fact: Has won a dance battle! (song was Rain on me by Lady Gaga ft. Ariana Grande)
 <br><br><br><br><br><br><br><br><br><br>
+
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2023.jpg){: style="width: 500px; float: center; border: 10px"}
+<br>
+Summer 2023 Undergraduates;lLeft to right: Kennedy, Athena, Claudia, Evan, Claire, Tianyi
+<br><br>
 
 
 ### Kennedy Barnes (Undergrad)
