@@ -115,17 +115,6 @@ Pronouns: she/they
 
 <br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/gabbie.png){: style="width: 250px; float: left; border: 10px"}
-### Gabbie Sandstedt (Postdoc)
-Gabbie received her PhD in Genetics from the University of Georgia, where she studied evolutionary drivers of reproductive isolation in Mimulus. Currently, Gabbie is an NSF Postdoctoral Fellow located at Utah State University, where she is co-advised by Dr. Catherine Rushworth. While still broadly interested in speciation, her research now focuses on ecological and genetic mechanisms that contribute to hybrid vigor in Boechera. In her free time, Gabbie enjoys hiking, paddle boarding, and listening to audiobooks.
-
-<br>
-Email: gabrielle.sandstedt[at]usu.edu
-
-<br>
-Fun Fact: She can talk about her cat, Otto, for hours.
-
-<br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/husain.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Husain I. Agha (Postdoc)
@@ -138,7 +127,7 @@ Pronouns: him/his <br style="margin-bottom:100px;"/>
 
 ### Claire Henley (Research Technician)
 Claire graduated from MSU with a major in Environmental Biology & Plant Biology. She worked with us as an undergrad and has transitioned to a research technician! She has been a part of the lab since May 2023. 
-</br>
+<br>
 Fun Fact: She has caught baby alligators!
 
 <br><br><br><br><br><br>
@@ -170,6 +159,16 @@ John is a junior at Davidson College majoring in biology with a genomics minor. 
 
 
 ## Lab Alums
+
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/gabbie.png){: style="width: 250px; float: left; border: 10px"}
+### Gabbie Sandstedt (Postdoc)
+Gabbie WAs an NSF Postdoctoral Fellow located at Utah State University, where she was co-advised by Dr. Catherine Rushworth and worked on the ecological and genetic mechanisms that contribute to hybrid vigor in Boechera. In her free time, Gabbie enjoys hiking, paddle boarding, and listening to audiobooks. She currently works for GeneDx.
+
+<br>
+Fun Fact: She can talk about her cat, Otto, for hours.
+
+<br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Panko_pic1.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Rebecca Panko (Postdoc)
