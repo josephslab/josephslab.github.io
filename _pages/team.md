@@ -136,9 +136,6 @@ Fun Fact: She has caught baby alligators!
 <br>
 (some) Summer 2024 Undergraduates; left to right: Claudia,Gabriel, John, Sophia
 <br><br>
-### Evan Adamski (Undergrad)
-Evan is a senior Genetics major here at MSU he has been a part of the lab since January 2023. He also was the 2022 National Cherry Festival Pie Eating Contest winner!
-
 ### Claudia Colligan (Undergrad)
 Claudia is a senior Biology major here at MSU; she has been a part of the lab since May 2023. She only wear a contact in one eyeball.
 
@@ -150,10 +147,6 @@ Sophia is a senior Biochemistry and Molecular Biology major at MSU. She has been
 
 ### Basia Love (Undergrad)
 Basia is a junior at MSU majoring in Plant Biology with a minor in Horticulture. She has been int he lab since May 2024. Some of her main hobbies include cross-stitching, crocheting, and photography.
-
-### John Ready (REU student - summer 2024)
-John is a junior at Davidson College majoring in biology with a genomics minor. He joined our lab in June 2024. In his free time he plays ultimate frisbee and rides bikes!
-
 
 
 
@@ -195,8 +188,15 @@ Fun fact: Has won a dance battle! (song was Rain on me by Lady Gaga ft. Ariana G
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2023.jpg){: style="width: 500px; float: center; border: 10px"}
 <br>
-Summer 2023 Undergraduates;lLeft to right: Kennedy, Athena, Claudia, Evan, Claire, Tianyi
+Summer 2023 Undergraduates;Left to right: Kennedy, Athena, Claudia, Evan, Claire, Tianyi
 <br><br>
+
+### Evan Adamski (Undergrad)
+Evan is a senior Genetics major here at MSU he has been a part of the lab since January 2023. He also was the 2022 National Cherry Festival Pie Eating Contest winner!
+
+
+### John Ready (REU student - summer 2024)
+John is a junior at Davidson College majoring in biology with a genomics minor. He joined our lab in June 2024. In his free time he plays ultimate frisbee and rides bikes!
 
 
 ### Kennedy Barnes (Undergrad)
@@ -219,3 +219,5 @@ Athena is a first-year majoring in Biology at the University of Michigan. She ha
 
 ### Sophie Cleland (Undergrad)
 Sophie is a senior majoring in Human biology. She has been part of the lab since November 2023. She recently graduated and is heading to graduate school!
+
+
