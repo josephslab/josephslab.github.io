@@ -125,6 +125,14 @@ Pronouns: him/his <br style="margin-bottom:100px;"/>
 
 <br><br><br><br>
 
+### Derek A. Denney (Postdoc)
+Derek received his PhD in Plant Biology from the University of Georgia in 2024 where he studied the ecophysiological and genetic mechanisms underlying local adaptation in *Boechera stricta*. Derek is broadly interested in the effects of changing environments on plant populations and especially interested in local adaptation and GxE. He is also a member of David Lowry's lab as a PRI Fellow. 
+<br>
+Email: denneyde@msu.edu <br>
+Pronouns: he/him 
+
+<br><br><br><br><br><br><br><br>
+
 ### Claire Henley (Research Technician)
 Claire graduated from MSU with a major in Environmental Biology & Plant Biology. She worked with us as an undergrad and has transitioned to a research technician! She has been a part of the lab since May 2023. 
 <br>
