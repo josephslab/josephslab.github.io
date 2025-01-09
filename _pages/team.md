@@ -125,11 +125,14 @@ Pronouns: him/his <br style="margin-bottom:100px;"/>
 
 <br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/magie.png){: style="width: 250px; float: left; border: 10px"}
 ### Derek A. Denney (Postdoc)
-Derek received his PhD in Plant Biology from the University of Georgia in 2024 where he studied the ecophysiological and genetic mechanisms underlying local adaptation in *Boechera stricta*. Derek is broadly interested in the effects of changing environments on plant populations and especially interested in local adaptation and GxE. He is also a member of David Lowry's lab as a PRI Fellow. 
+Derek received his PhD in Plant Biology from the University of Georgia in 2024 where he studied the ecophysiological and genetic mechanisms underlying local adaptation in *Boechera stricta*. Derek is broadly interested in the effects of changing environments on plant populations and especially interested in local adaptation and GxE. He is also a member of David Lowry's lab as a PRI Fellow. In his free time, Derek enjoys hiking, cooking, playing video games, and spending time with his family. 
 <br>
 Email: denneyde@msu.edu <br>
 Pronouns: he/him 
+<br>
+Fun fact: Has been trampled by an elephant!
 
 <br><br><br><br><br><br><br><br>
 
