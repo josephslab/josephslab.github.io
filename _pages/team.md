@@ -44,9 +44,13 @@ Miles is a graduate student in the Genetics and Genome Sciences program at MSU. 
 
 [Personal Website](https://milesroberts-123.github.io/)
 <br>
+[Google Scholar](https://scholar.google.com/citations?user=OvPsJMQAAAAJ&hl=en&oi=ao)
+<br>
 [Github](https://github.com/milesroberts-123)
 <br>
 Twitter: [at]MilesDaRoberts
+<br>
+Bluesky: [at]milesroberts.bsky.social
 <br>
 Email: robe1195 [at] msu.edu
 <br>
