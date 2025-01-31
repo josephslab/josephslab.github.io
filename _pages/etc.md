@@ -57,7 +57,6 @@ Graduate school and academic jobs can be difficult and, while we wish it were no
 
 [Unix command-line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=y3shhd1a5n)
 
-
 ## Writing Resources
 [The 5 pivotal paragraphs in a paper](https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/)
 
@@ -70,6 +69,8 @@ Graduate school and academic jobs can be difficult and, while we wish it were no
 [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 
 [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+
+[How to Write/Present Science - Baby, Werewolf, Silver Bullet](http://ecoevoevoeco.blogspot.com/2014/10/how-to-writepresent-science-baby.html)
 
 ## Other Resources
 
