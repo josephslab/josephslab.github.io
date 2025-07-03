@@ -11,11 +11,12 @@ permalink: /people/
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/me.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Emily Josephs (PI)
 
-Emily is as an assistant professor in the Plant Bio dept at Michigan State University. She received a PhD from the University of Toronto and was a postdoc at the University of California, Davis. Emily is generally excited about all things population and quantitative genetics, swimming, biking, and camping. 
+Emily is as an associate professor in the Plant Bio dept at Michigan State University. She received a PhD from the University of Toronto and was a postdoc at the University of California, Davis. Emily is generally excited about all things population and quantitative genetics, swimming, biking, and gardening. 
 
 Email: josep993@msu.edu <br>
 Github: [emjosephs](https://github.com/emjosephs/) <br>
 Pronouns: She/her
+Fun Fact: Has biked over the Hoover Dam.
 
 <br><br><br>
 
@@ -88,26 +89,6 @@ Fun fact: Is allergic to gold!
 <br><br><br><br><br><br><br><br><br><br>
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/nate.png){: style="width: 250px; float: left; border: 10px"}
-### Nathan Catlin (Postdoc)
-Nathan received his PhD from the University of Florida where he studied alternative splicing and gene duplication in rice and its wild relatives. Nathan is broadly interested in comparative genomics and population genomics, specifically how standing genetic variation in natural and breeding populations contribute to phenotypic diversity. Nathan is currently investigating TE insertions in maize and their contributions to trait variation.
-
-Email: catlinna [at] msu.edu
-<br>
-Fun fact: Won 3rd place in an Ice Cream Eating contest!
-
-<br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/chrissy.jpg){: style="width: 250px; float: left; border: 10px"}
-### Christina Miller (Postdoc)
-Chrissy completed her PhD at The University of Queensland, Australia, where she studied the mutational contribution to genotype-by-environment variation in zebrafish. She is currently focusing on plasticity and urban adaptation in Capsella and is broadly interested in the nature of genetic variation across environments that populations might typically encounter. In her free time, Chrissy enjoys camping, hiking, and road trips. 
-<br>
-Email: mill3866@msu.edu
-<br>
-Pronouns: she/her/hers
-
-<br><br><br><br><br><br><br><br>
-
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/magie.png){: style="width: 250px; float: left; border: 10px"}
 ### Magie Williams (Graduate Student)
 Magie is an Michigan State University Alumni, obtaining an B.S. in Plant Biology, and a second in Biochemistry and Molecular Biology, focusing on mRNA alternative coding bias. She also has a MSc from Queen Mary University of London, studying cryptic taxa in the species Dioscorea sylvatica at the Royal Botanic Garden’s Kew. This was followed by a position in the Great Lakes Bioenergy Research Center. Magie started as a research technician in our lab and is now a graduate student! Broadly, Magie’s interests are focused on the adaptive response of plants in the context of larger environmental changes and rapid evolution. In their free time, Magie enjoys hiking, lounging, and spending time with her 3 cats.  
@@ -147,6 +128,13 @@ Fun Fact: She has caught baby alligators!
 
 <br><br><br><br><br><br>
 
+### Claudia Colligan (Research Technician)
+Claudia has been a part of the lab since May 2023 and started working as a full-time research technician in 2025, after she graduated from MSU. 
+<br>
+Fun Fact: Only wears a contact in one eyeball.
+
+
+
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2024.jpg){: style="width: 500px; float: center; border: 10px"}
 <br>
 (some) Summer 2024 Undergraduates; left to right: Claudia,Gabriel, John, Sophia
@@ -167,6 +155,25 @@ Basia is a junior at MSU majoring in Plant Biology with a minor in Horticulture.
 
 
 ## Lab Alums
+
+[]({{ site.url }}{{ site.baseurl }}/images/teampic/nate.png){: style="width: 250px; float: left; border: 10px"}
+### Nathan Catlin (Postdoc)
+Nathan received his PhD from the University of Florida where he studied alternative splicing and gene duplication in rice and its wild relatives. Nathan is broadly interested in comparative genomics and population genomics, specifically how standing genetic variation in natural and breeding populations contribute to phenotypic diversity. During his time in the lab, Nathan investigated TE insertions in maize and their contributions to trait variation. He is currently a research associate in the Biochemistry Department at MSU.
+
+Email: catlinna [at] msu.edu
+<br>
+Fun fact: Won 3rd place in an Ice Cream Eating contest!
+
+<br><br><br><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/chrissy.jpg){: style="width: 250px; float: left; border: 10px"}
+### Christina Miller (Postdoc)
+Chrissy completed her PhD at The University of Queensland, Australia, where she studied the mutational contribution to genotype-by-environment variation in zebrafish. She is currently focusing on plasticity and urban adaptation in Capsella and is broadly interested in the nature of genetic variation across environments that populations might typically encounter. In her free time, Chrissy enjoys camping, hiking, and road trips.
+<br>
+Email: mill3866@msu.edu
+<br>
+Pronouns: she/her/hers
+
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/gabbie.png){: style="width: 250px; float: left; border: 10px"}
