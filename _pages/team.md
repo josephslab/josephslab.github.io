@@ -139,11 +139,11 @@ Fun Fact: Only wears a contact in one eyeball.
 <br>
 (some) Summer 2024 Undergraduates; left to right: Claudia,Gabriel, John, Sophia
 <br><br>
-### Claudia Colligan (Undergrad)
-Claudia is a senior Biology major here at MSU; she has been a part of the lab since May 2023. She only wear a contact in one eyeball.
 
-### Gabriel Dunn (Undergrad)
-Gabe is a junior Environmental Biology/ZOO major here at MSU but is switching his major to Chemical Engineering. Gabe has been in the lab since January 2024. He is also the Best DJ in East Lansing (Name: AD MORTEM).
+
+
+
+
 
 ### Sophia Lanning (Undergrad)
 Sophia is a senior Biochemistry and Molecular Biology major at MSU. She has been part of the lab since May 2024. Sophia is left handed!
@@ -212,6 +212,10 @@ Fun fact: Has won a dance battle! (song was Rain on me by Lady Gaga ft. Ariana G
 <br>
 Summer 2023 Undergraduates;Left to right: Kennedy, Athena, Claudia, Evan, Claire, Tianyi
 <br><br>
+
+### Gabriel Dunn (Undergrad)
+Gabe is a junior Environmental Biology/ZOO major here at MSU but is switching his major to Chemical Engineering. Gabe has been in the lab since January 2024. He is also the Best DJ in East Lansing (Name: AD MORTEM).
+
 
 ### Evan Adamski (Undergrad)
 Evan is a senior Genetics major here at MSU he has been a part of the lab since January 2023. He also was the 2022 National Cherry Festival Pie Eating Contest winner!
