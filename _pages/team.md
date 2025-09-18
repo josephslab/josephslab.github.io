@@ -16,7 +16,7 @@ Emily is as an associate professor in the Plant Bio dept at Michigan State Unive
 Email: josep993@msu.edu <br>
 Github: [emjosephs](https://github.com/emjosephs/) <br>
 Pronouns: She/her
-Fun Fact: Has biked over the Hoover Dam.
+Fun Fact: Has biked across the Hoover Dam.
 
 <br><br><br>
 
@@ -37,29 +37,6 @@ Adrian started out in the Physical Sciences, gaining a BSc in Physics (specializ
 
 
 <br><br><br><br><br><br><br><br><br><br>
-
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/miles.jpg){: style="width: 250px; float: left; border: 10px"}
-### Miles Roberts (Graduate Student)
-Miles is a graduate student in the Genetics and Genome Sciences program at MSU. He completed his B.S. at Washington State University where he majored in Biology and minored in Chemistry, Mathematics, and Quantitative Biology. His research interests include the evolution of gene expression, the determinants of genetic diversity, and disentangling selective and demographic processes. In his free time, Miles enjoys watching horrible movies and making equally horrible puns.
-
-[Personal Website](https://milesroberts-123.github.io/)
-<br>
-[Google Scholar](https://scholar.google.com/citations?user=OvPsJMQAAAAJ&hl=en&oi=ao)
-<br>
-[Github](https://github.com/milesroberts-123)
-<br>
-Twitter: [at]MilesDaRoberts
-<br>
-Bluesky: [at]milesroberts.bsky.social
-<br>
-Email: robe1195 [at] msu.edu
-<br>
-Pronouns: he/him/his
-<br>
-Fun fact: Miles was once stranded in the Washington wilderness but got saved by the Boy Scouts!
-
-<br><br><br><br><br><br><br><br><br>
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/sophie.jpeg){: style="width: 250px; float: left; border: 10px"}
@@ -97,9 +74,7 @@ Email: will2778@msu.edu
 <br>
 Pronouns: she/they
 
-
 <br><br><br><br><br><br><br><br>
-
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/husain.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Husain I. Agha (Postdoc)
@@ -108,30 +83,26 @@ Husain received his PhD in Plant and Microbial Biology from the Univesity of Min
 Email: aghahus1@msu.edu <br>
 Pronouns: him/his <br style="margin-bottom:100px;"/>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Derek.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Derek A. Denney (Postdoc)
 Derek received his PhD in Plant Biology from the University of Georgia in 2024 where he studied the ecophysiological and genetic mechanisms underlying local adaptation in *Boechera stricta*. Derek is broadly interested in the effects of changing environments on plant populations and especially interested in local adaptation and GxE. He is also a member of David Lowry's lab as a PRI Fellow. In his free time, Derek enjoys hiking, cooking, playing video games, and spending time with his family. 
 <br>
+[Personal Website](https://ddenney1.github.io/) <br>
+[GitHub](https://github.com/ddenney1/) <br>
 Email: denneyde@msu.edu <br>
 Pronouns: he/him 
 <br>
 Fun fact: Has been trampled by an elephant!
 
-<br><br><br><br><br><br><br>
-
-### Claire Henley (Research Technician)
-Claire graduated from MSU with a major in Environmental Biology & Plant Biology. She worked with us as an undergrad and has transitioned to a research technician! She has been a part of the lab since May 2023. 
-<br>
-Fun Fact: She has caught baby alligators!
-
-<br><br><br><br><br><br>
+<br><br><br>
 
 ### Claudia Colligan (Research Technician)
-Claudia has been a part of the lab since May 2023 and started working as a full-time research technician in 2025, after she graduated from MSU. 
+Claudia graduated from MSU and has been a part of the lab since May 2023. 
 <br>
-Fun Fact: Only wears a contact in one eyeball.
+Fun fact: She only wears a contact in one eyeball.
+
 
 
 
@@ -156,6 +127,31 @@ Basia is a junior at MSU majoring in Plant Biology with a minor in Horticulture.
 
 ## Lab Alums
 
+
+### Claire Henley (Research Technician)
+Claire graduated from MSU with a major in Environmental Biology & Plant Biology. She worked with us as an undergrad and has transitioned to a research technician! She has been a part of the lab since May 2023. 
+<br>
+Fun Fact: She has caught baby alligators!
+
+<br><br><br><br><br><br><br><br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/miles.jpg){: style="width: 250px; float: left; border: 10px"}
+### Miles Roberts (Graduate Student)
+Miles obtained his PhD in Genetics and Genome Sciences program at MSU and is now an NSF Postdoctoral Fellow with Moi Exposito-Alonso. He completed his B.S. at Washington State University where he majored in Biology and minored in Chemistry, Mathematics, and Quantitative Biology. His research interests include the evolution of gene expression, the determinants of genetic diversity, and disentangling selective and demographic processes. In his free time, Miles enjoys watching horrible movies and making equally horrible puns.
+
+[Personal Website](https://milesroberts-123.github.io/)
+<br>
+[Github](https://github.com/milesroberts-123)
+<br>
+Twitter: [at]MilesDaRoberts
+<br>
+Email: robe1195 [at] msu.edu
+<br>
+Pronouns: he/him/his
+<br>
+Fun fact: Miles was once stranded in the Washington wilderness but got saved by the Boy Scouts!
+
+<br><br><br><br><br><br><br><br><br>
+
 []({{ site.url }}{{ site.baseurl }}/images/teampic/nate.png){: style="width: 250px; float: left; border: 10px"}
 ### Nathan Catlin (Postdoc)
 Nathan received his PhD from the University of Florida where he studied alternative splicing and gene duplication in rice and its wild relatives. Nathan is broadly interested in comparative genomics and population genomics, specifically how standing genetic variation in natural and breeding populations contribute to phenotypic diversity. During his time in the lab, Nathan investigated TE insertions in maize and their contributions to trait variation. He is currently a research associate in the Biochemistry Department at MSU.
@@ -166,14 +162,17 @@ Fun fact: Won 3rd place in an Ice Cream Eating contest!
 
 <br><br><br><br><br>
 
+
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/chrissy.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Christina Miller (Postdoc)
 Chrissy completed her PhD at The University of Queensland, Australia, where she studied the mutational contribution to genotype-by-environment variation in zebrafish. She is currently focusing on plasticity and urban adaptation in Capsella and is broadly interested in the nature of genetic variation across environments that populations might typically encounter. In her free time, Chrissy enjoys camping, hiking, and road trips.
+
 <br>
 Email: mill3866@msu.edu
 <br>
 Pronouns: she/her/hers
 
+<br><br><br><br><br><br><br><br>
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/gabbie.png){: style="width: 250px; float: left; border: 10px"}
