@@ -11,11 +11,12 @@ permalink: /people/
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/me.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Emily Josephs (PI)
 
-Emily is as an assistant professor in the Plant Bio dept at Michigan State University. She received a PhD from the University of Toronto and was a postdoc at the University of California, Davis. Emily is generally excited about all things population and quantitative genetics, swimming, biking, and camping. 
+Emily is as an associate professor in the Plant Bio dept at Michigan State University. She received a PhD from the University of Toronto and was a postdoc at the University of California, Davis. Emily is generally excited about all things population and quantitative genetics, swimming, biking, and gardening. 
 
 Email: josep993@msu.edu <br>
 Github: [emjosephs](https://github.com/emjosephs/) <br>
 Pronouns: She/her
+Fun Fact: Has biked across the Hoover Dam.
 
 <br><br><br>
 
@@ -36,9 +37,6 @@ Adrian started out in the Physical Sciences, gaining a BSc in Physics (specializ
 
 
 <br><br><br><br><br><br><br><br><br><br>
-
-
-
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/sophie.jpeg){: style="width: 250px; float: left; border: 10px"}
@@ -66,6 +64,7 @@ Pronouns: she/her/hers
 Fun fact: Is allergic to gold!
 
 <br><br><br><br><br><br><br><br><br><br>
+
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/magie.png){: style="width: 250px; float: left; border: 10px"}
 ### Magie Williams (Graduate Student)
@@ -105,14 +104,17 @@ Claudia graduated from MSU and has been a part of the lab since May 2023.
 Fun fact: She only wears a contact in one eyeball.
 
 
+
+
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2024.jpg){: style="width: 500px; float: center; border: 10px"}
 <br>
 (some) Summer 2024 Undergraduates; left to right: Claudia,Gabriel, John, Sophia
 <br><br>
 
 
-### Gabriel Dunn (Undergrad)
-Gabe is a junior Environmental Biology/ZOO major here at MSU but is switching his major to Chemical Engineering. Gabe has been in the lab since January 2024. He is also the Best DJ in East Lansing (Name: AD MORTEM).
+
+
+
 
 ### Sophia Lanning (Undergrad)
 Sophia is a senior Biochemistry and Molecular Biology major at MSU. She has been part of the lab since May 2024. Sophia is left handed!
@@ -124,6 +126,7 @@ Basia is a junior at MSU majoring in Plant Biology with a minor in Horticulture.
 
 
 ## Lab Alums
+
 
 ### Claire Henley (Research Technician)
 Claire graduated from MSU with a major in Environmental Biology & Plant Biology. She worked with us as an undergrad and has transitioned to a research technician! She has been a part of the lab since May 2023. 
@@ -148,25 +151,29 @@ Pronouns: he/him/his
 Fun fact: Miles was once stranded in the Washington wilderness but got saved by the Boy Scouts!
 
 <br><br><br><br><br><br><br><br><br>
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/nate.png){: style="width: 250px; float: left; border: 10px"}
+
+[]({{ site.url }}{{ site.baseurl }}/images/teampic/nate.png){: style="width: 250px; float: left; border: 10px"}
 ### Nathan Catlin (Postdoc)
-Nathan received his PhD from the University of Florida where he studied alternative splicing and gene duplication in rice and its wild relatives. Nathan is broadly interested in comparative genomics and population genomics, specifically how standing genetic variation in natural and breeding populations contribute to phenotypic diversity. Nathan is currently investigating TE insertions in maize and their contributions to trait variation.
+Nathan received his PhD from the University of Florida where he studied alternative splicing and gene duplication in rice and its wild relatives. Nathan is broadly interested in comparative genomics and population genomics, specifically how standing genetic variation in natural and breeding populations contribute to phenotypic diversity. During his time in the lab, Nathan investigated TE insertions in maize and their contributions to trait variation. He is currently a research associate in the Biochemistry Department at MSU.
 
 Email: catlinna [at] msu.edu
 <br>
 Fun fact: Won 3rd place in an Ice Cream Eating contest!
 
 <br><br><br><br><br>
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/chrissy.jpg){: style="width: 250px; float: left; border: 10px"}
 
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/chrissy.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Christina Miller (Postdoc)
-Chrissy completed her PhD at The University of Queensland, Australia, where she studied the mutational contribution to genotype-by-environment variation in zebrafish. She is currently focusing on plasticity and urban adaptation in Capsella and is broadly interested in the nature of genetic variation across environments that populations might typically encounter. In her free time, Chrissy enjoys camping, hiking, and road trips. 
+Chrissy completed her PhD at The University of Queensland, Australia, where she studied the mutational contribution to genotype-by-environment variation in zebrafish. She is currently focusing on plasticity and urban adaptation in Capsella and is broadly interested in the nature of genetic variation across environments that populations might typically encounter. In her free time, Chrissy enjoys camping, hiking, and road trips.
+
 <br>
 Email: mill3866@msu.edu
 <br>
 Pronouns: she/her/hers
 
 <br><br><br><br><br><br><br><br>
+
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/gabbie.png){: style="width: 250px; float: left; border: 10px"}
 ### Gabbie Sandstedt (Postdoc)
@@ -204,6 +211,10 @@ Fun fact: Has won a dance battle! (song was Rain on me by Lady Gaga ft. Ariana G
 <br>
 Summer 2023 Undergraduates;Left to right: Kennedy, Athena, Claudia, Evan, Claire, Tianyi
 <br><br>
+
+### Gabriel Dunn (Undergrad)
+Gabe is a junior Environmental Biology/ZOO major here at MSU but is switching his major to Chemical Engineering. Gabe has been in the lab since January 2024. He is also the Best DJ in East Lansing (Name: AD MORTEM).
+
 
 ### Evan Adamski (Undergrad)
 Evan is a senior Genetics major here at MSU he has been a part of the lab since January 2023. He also was the 2022 National Cherry Festival Pie Eating Contest winner!
