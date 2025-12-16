@@ -116,11 +116,11 @@ Fun fact: She only wears a contact in one eyeball.
 
 
 
-### Sophia Lanning (Undergrad)
-Sophia is a senior Biochemistry and Molecular Biology major at MSU. She has been part of the lab since May 2024. Sophia is left handed!
+### Jas Chalmers (Undergrad)
+Jas is a Plant Biology major at MSU. She has been part of the lab since September 2024.
 
-### Basia Love (Undergrad)
-Basia is a junior at MSU majoring in Plant Biology with a minor in Horticulture. She has been int he lab since May 2024. Some of her main hobbies include cross-stitching, crocheting, and photography.
+### Marissa Benn (Undergrad)
+Marissa is a Plant Biology major at MSU. She has been part of the lab since September 2024.
 
 
 
@@ -212,9 +212,17 @@ Fun fact: Has won a dance battle! (song was Rain on me by Lady Gaga ft. Ariana G
 Summer 2023 Undergraduates;Left to right: Kennedy, Athena, Claudia, Evan, Claire, Tianyi
 <br><br>
 
+### Sophia Lanning (Undergrad)
+Sophia is a senior Biochemistry and Molecular Biology major at MSU. She has been part of the lab since May 2024. Sophia is left handed!
+
+### Basia Love (Undergrad)
+Basia is a junior at MSU majoring in Plant Biology with a minor in Horticulture. She has been int he lab since May 2024. Some of her main hobbies include cross-stitching, crocheting, and photography.
+
 ### Gabriel Dunn (Undergrad)
 Gabe is a junior Environmental Biology/ZOO major here at MSU but is switching his major to Chemical Engineering. Gabe has been in the lab since January 2024. He is also the Best DJ in East Lansing (Name: AD MORTEM).
 
+### Andrew Wade (Undergrad)
+Andrew is a junior Plant Biology major at MSU. He started in the lab in September 2024.
 
 ### Evan Adamski (Undergrad)
 Evan is a senior Genetics major here at MSU he has been a part of the lab since January 2023. He also was the 2022 National Cherry Festival Pie Eating Contest winner!
