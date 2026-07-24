@@ -39,20 +39,6 @@ Adrian started out in the Physical Sciences, gaining a BSc in Physics (specializ
 <br><br><br><br><br><br><br><br><br><br>
 
 
-![Sophie Buysse]({{ site.url }}{{ site.baseurl }}/images/teampic/sophie.jpeg){: style="width: 250px; float: left; border: 10px"}
-### Sophie Buysse (Graduate Student)
-Sophie is a graduate student in the Plant Biology department and Ecology, Evolution, and Behavior dual degree program at MSU and she is cosupervised by Jeff Conner. She completed her B.A. in Biology at the College of St. Benedict and St. John’s University in Minnesota. Her research centers on the role of phenotypic plasticity in adaptation and evolution. Outside the lab, Sophie enjoys hiking, cross country skiing, gardening, and cooking.
-
-[Personal Website](https://sfbuysse.github.io/)
-<br>
-Email: buysseso [at] msu.edu
-<br>
-Pronouns: she/her/hers
-<br>
-Fun fact: one of her favorite plants is Puya bereronia
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
-
 ![Magie Williams]({{ site.url }}{{ site.baseurl }}/images/teampic/magie.png){: style="width: 250px; float: left; border: 10px"}
 ### Magie Williams (Graduate Student)
 Magie is an Michigan State University Alumni, obtaining an B.S. in Plant Biology, and a second in Biochemistry and Molecular Biology, focusing on mRNA alternative coding bias. She also has a MSc from Queen Mary University of London, studying cryptic taxa in the species Dioscorea sylvatica at the Royal Botanic Garden’s Kew. This was followed by a position in the Great Lakes Bioenergy Research Center. Magie started as a research technician in our lab and is now a graduate student! Broadly, Magie’s interests are focused on the adaptive response of plants in the context of larger environmental changes and rapid evolution. In their free time, Magie enjoys hiking, lounging, and spending time with her 3 cats.  
@@ -133,6 +119,21 @@ Pronouns: she/her/hers
 Fun fact: Is allergic to gold!
 
 <br><br><br><br><br><br><br><br><br><br>
+
+![Sophie Buysse]({{ site.url }}{{ site.baseurl }}/images/teampic/sophie.jpeg){: style="width: 250px; float: left; border: 10px"}
+### Sophie Buysse (Graduate Student)
+Sophie completed her PhD in the Plant Biology department and Ecology, Evolution, and Behavior dual degree program at MSU cosupervised by Jeff Conner. She completed her B.A. in Biology at the College of St. Benedict and St. John’s University in Minnesota. Her research centers on the role of phenotypic plasticity in adaptation and evolution. Outside the lab, Sophie enjoys hiking, cross country skiing, gardening, and cooking.
+
+[Personal Website](https://sfbuysse.github.io/)
+<br>
+Email: buysseso [at] msu.edu
+<br>
+Pronouns: she/her/hers
+<br>
+Fun fact: one of her favorite plants is Puya bereronia
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 ![Miles Roberts]({{ site.url }}{{ site.baseurl }}/images/teampic/miles.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Miles Roberts (Graduate Student)
