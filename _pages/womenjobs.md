@@ -1,12 +1,13 @@
 ---
-title: "Josephs Lab"
+title: "Josephs Lab - Tenure-Track Hiring & Gender Bibliography"
 layout: gridlay
-excerpt: "Josephs Lab"
+excerpt: "Annotated bibliography on tenure-track hiring and gender."
 sitemap: false
 permalink: /womenjobs/
 ---
 
-## Annotated bibliography on tenure-track hiring and gender.
+# Annotated bibliography on tenure-track hiring and gender
+
 
 [Leaks in the pipeline: separating demographic inertia from ongoing gender differences in academia](http://rspb.royalsocietypublishing.org/content/279/1743/3736)
 Here, the authors modelled gender balance across academic stages using NSF data from 1979-2006. They found that even after accounting for demographic intertia (fewer women than expected due to past imbalances), there were fewer women professors than predicted under a null model. The transition to tenure-track positions appeared to be a strong bottleneck for women in academia. 

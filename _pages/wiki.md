@@ -48,7 +48,7 @@ From a development node, you can run scripts that take less than 2 hours to comp
 
 If you’d like to do something that takes a significant amount of memory, or longer than two hours to complete, you will need to submit a job to SLURM.
 
-More information on submitting and altering jobs can be found [here](https://wiki.hpcc.msu.edu/display/ITH/Job+Scheduling+by+SLURM “Job Scheduling by SLURM”) on the MSU HPCC wiki website. 
+More information on submitting and altering jobs can be found on the [MSU HPCC SLURM documentation page](https://wiki.hpcc.msu.edu/display/ITH/Job+Scheduling+by+SLURM). 
 
 To successfully submit a job, your job script will need a header that provides job information which influences where in the queue your job will be.
 

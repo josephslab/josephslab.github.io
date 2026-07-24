@@ -9,14 +9,14 @@ permalink: /resources/
 ## Diversity in Science
 
 <p align="center">
-<img src = "{{ site.url}}{{ site.baseurl}}/images/pindell.jpg" class="img-responsive" width = "70%" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/pindell.jpg" alt="Autobiography: The Search (Chrysalis/Mediation, Positive/Negative) artwork by Howardena Pindell" class="img-responsive" width="70%" />
 </p>
 
 
 The lack of diversity in science is an important issue and it is our responsibility to educate ourselves about diversity issues in science, learn how to best combate discrimination, and work to promote equity and build an inclusive scientific community. I am always happy to talk about these and related issues and will actively work to keep the Josephs lab an inclusive and welcoming space. (The art above is *Autobiography: The Search (Chrysalis/Mediation, Positive/Negative)* by Howardena Pindell).
 
 
-#### More info and ideas here:
+### More info and ideas here:
 [Diversity in Stem: What It Is and Why It Matters](https://blogs.scientificamerican.com/voices/diversity-in-stem-what-it-is-and-why-it-matters/)
 
 [Resources for First Generation Graduate Students](https://jdkincaid.wordpress.com/)
@@ -27,7 +27,8 @@ The lack of diversity in science is an important issue and it is our responsibil
 
 [An annotated bibliography I made on gender and the tenure-track job market](http://josephslab.github.io/womenjobs/)
 
-#### Resources on MSU campus
+### Resources on MSU campus
+
 [Office for Inclusion and Intercultural Initiatives](http://www.inclusion.msu.edu/)<br>
 [Office for International Students and Scholars](http://oiss.isp.msu.edu/)<br>
 [Lesbian, Bisexual, Gay, and Transgender Resource Center](http://lbgtrc.msu.edu/)<br>

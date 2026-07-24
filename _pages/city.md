@@ -6,7 +6,7 @@ sitemap: false
 permalink: /city.html
 ---
 
-## Urban Plant Evolution Project
+# Urban Plant Evolution Project
 
 Imagine your favorite place to be on a sunny afternoon- likely, you are imagining a place outdoors surrounded by greenery and plants, whether it’s out in the wilderness, or simply in your back garden. Nature not only helps well-being, it’s also important for the biodiversity of our planet. However, as our population grows, so do our urban environments.
  

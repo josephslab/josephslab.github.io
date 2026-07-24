@@ -8,7 +8,7 @@ permalink: /people/
 
 # People in the Lab
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/me.jpg){: style="width: 250px; float: left; border: 10px"}
+![Emily Josephs]({{ site.url }}{{ site.baseurl }}/images/teampic/me.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Emily Josephs (PI)
 
 Emily is as an associate professor in the Plant Bio dept at Michigan State University. She received a PhD from the University of Toronto and was a postdoc at the University of California, Davis. Emily is generally excited about all things population and quantitative genetics, swimming, biking, and gardening. 
@@ -20,7 +20,7 @@ Fun Fact: Has biked across the Hoover Dam.
 
 <br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/thumbnail_maya_lab_website.jpg){: style="width: 250px; float: left; border: 10px"}
+![Maya Wilson Brown]({{ site.url }}{{ site.baseurl }}/images/teampic/thumbnail_maya_lab_website.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Maya Wilson Brown (Graduate Student)
 Maya got her B.S. in Biology at Duke University studying hybrid seed incompatibility and speciation in monkey flowers (Mimulus) and morning glories (Ipomoea). She is interested in evolutionary biology, ecology, genetics, and loves strong espresso. Maya worked in the Josephs lab as a research technician for two years before starting as a PhD student.
 
@@ -31,7 +31,7 @@ Fun fact: Maya wants to catch a fish with her bare hands. The fish has to be at 
 
 <br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/adrian.jpg){: style="width: 250px; float: left; border: 10px"}
+![Adrian Platts]({{ site.url }}{{ site.baseurl }}/images/teampic/adrian.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Adrian Platts (Bioinformatician)
 Adrian started out in the Physical Sciences, gaining a BSc in Physics (specializing in Computational Physics) from the University of Birmingham followed by postgraduate work in novel magnetic materials. In 2004 he switched to a bioscience career initially working on human regulatory elements before moving on to plant genetics at McGill and then New York Universities.  He joined the Josephs lab and the [Edger Lab](https://www.polyploidy.msu.edu/patrick_edger/index.html) in 2020 and balances a home life based in A2 with a work life based around MSU.
 
@@ -39,7 +39,7 @@ Adrian started out in the Physical Sciences, gaining a BSc in Physics (specializ
 <br><br><br><br><br><br><br><br><br><br>
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/sophie.jpeg){: style="width: 250px; float: left; border: 10px"}
+![Sophie Buysse]({{ site.url }}{{ site.baseurl }}/images/teampic/sophie.jpeg){: style="width: 250px; float: left; border: 10px"}
 ### Sophie Buysse (Graduate Student)
 Sophie is a graduate student in the Plant Biology department and Ecology, Evolution, and Behavior dual degree program at MSU and she is cosupervised by Jeff Conner. She completed her B.A. in Biology at the College of St. Benedict and St. John’s University in Minnesota. Her research centers on the role of phenotypic plasticity in adaptation and evolution. Outside the lab, Sophie enjoys hiking, cross country skiing, gardening, and cooking.
 
@@ -53,7 +53,7 @@ Fun fact: one of her favorite plants is Puya bereronia
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/asia.jpg){: style="width: 250px; float: left; border: 10px"}
+![Asia Hightower]({{ site.url }}{{ site.baseurl }}/images/teampic/asia.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Asia Hightower (Graduate Student)
 Asia is a graduate student in the Plant Biology program PhD program at MSU. She completed her B.A. and MSc. at Wayne State university where she majored in Biological sciences with a concentration of evolutionary and developmental biology. Her master’s research focused on the developmental mechanism for floral meristem termination in dioecious *Spinacia oleracea*. Her main interests now include comparative leaf morphology and herbarium studies. In her free time, Asia is looking to improve her science communication skills and getting to know the East Lansing area.
 
@@ -66,7 +66,7 @@ Fun fact: Is allergic to gold!
 <br><br><br><br><br><br><br><br><br><br>
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/magie.png){: style="width: 250px; float: left; border: 10px"}
+![Magie Williams]({{ site.url }}{{ site.baseurl }}/images/teampic/magie.png){: style="width: 250px; float: left; border: 10px"}
 ### Magie Williams (Graduate Student)
 Magie is an Michigan State University Alumni, obtaining an B.S. in Plant Biology, and a second in Biochemistry and Molecular Biology, focusing on mRNA alternative coding bias. She also has a MSc from Queen Mary University of London, studying cryptic taxa in the species Dioscorea sylvatica at the Royal Botanic Garden’s Kew. This was followed by a position in the Great Lakes Bioenergy Research Center. Magie started as a research technician in our lab and is now a graduate student! Broadly, Magie’s interests are focused on the adaptive response of plants in the context of larger environmental changes and rapid evolution. In their free time, Magie enjoys hiking, lounging, and spending time with her 3 cats.  
 <br>
@@ -76,7 +76,7 @@ Pronouns: she/they
 
 <br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/husain.jpg){: style="width: 250px; float: left; border: 10px"}
+![Husain I. Agha]({{ site.url }}{{ site.baseurl }}/images/teampic/husain.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Husain I. Agha (Postdoc)
 Husain received his PhD in Plant and Microbial Biology from the Univesity of Minnesota in 2023 where he studied genotype-by-environment interaction in wild and domesticated potato. Currently, he is a ghost-doc working remotely from the University of Minnesota campus. Husain's postdoc research will broadly focus on phenotypic plasticity and its affect on quantitative traits. In his free time, Husain plays chess, listens to podcasts, and cycling. 
 <br>
@@ -85,7 +85,7 @@ Pronouns: him/his <br style="margin-bottom:100px;"/>
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Derek.jpg){: style="width: 250px; float: left; border: 10px"}
+![Derek A. Denney]({{ site.url }}{{ site.baseurl }}/images/teampic/Derek.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Derek A. Denney (Postdoc)
 Derek received his PhD in Plant Biology from the University of Georgia in 2024 where he studied the ecophysiological and genetic mechanisms underlying local adaptation in *Boechera stricta*. Derek is broadly interested in the effects of changing environments on plant populations and especially interested in local adaptation and GxE. He is also a member of David Lowry's lab as a PRI Fellow. In his free time, Derek enjoys hiking, cooking, playing video games, and spending time with his family. 
 <br>
@@ -106,7 +106,7 @@ Fun fact: She only wears a contact in one eyeball.
 
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2024.jpg){: style="width: 500px; float: center; border: 10px"}
+![Summer 2024 Undergraduates: Claudia, Gabriel, John, Sophia]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2024.jpg){: style="width: 500px; float: center; border: 10px"}
 <br>
 (some) Summer 2024 Undergraduates; left to right: Claudia,Gabriel, John, Sophia
 <br><br>
@@ -134,7 +134,7 @@ Claire graduated from MSU with a major in Environmental Biology & Plant Biology.
 Fun Fact: She has caught baby alligators!
 
 <br><br><br><br><br><br><br><br>
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/miles.jpg){: style="width: 250px; float: left; border: 10px"}
+![Miles Roberts]({{ site.url }}{{ site.baseurl }}/images/teampic/miles.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Miles Roberts (Graduate Student)
 Miles obtained his PhD in Genetics and Genome Sciences program at MSU and is now an NSF Postdoctoral Fellow with Moi Exposito-Alonso. He completed his B.S. at Washington State University where he majored in Biology and minored in Chemistry, Mathematics, and Quantitative Biology. His research interests include the evolution of gene expression, the determinants of genetic diversity, and disentangling selective and demographic processes. In his free time, Miles enjoys watching horrible movies and making equally horrible puns.
 
@@ -152,7 +152,7 @@ Fun fact: Miles was once stranded in the Washington wilderness but got saved by 
 
 <br><br><br><br><br><br><br><br><br>
 
-[]({{ site.url }}{{ site.baseurl }}/images/teampic/nate.png){: style="width: 250px; float: left; border: 10px"}
+![Nathan Catlin]({{ site.url }}{{ site.baseurl }}/images/teampic/nate.png){: style="width: 250px; float: left; border: 10px"}
 ### Nathan Catlin (Postdoc)
 Nathan received his PhD from the University of Florida where he studied alternative splicing and gene duplication in rice and its wild relatives. Nathan is broadly interested in comparative genomics and population genomics, specifically how standing genetic variation in natural and breeding populations contribute to phenotypic diversity. During his time in the lab, Nathan investigated TE insertions in maize and their contributions to trait variation. He is currently a research associate in the Biochemistry Department at MSU.
 
@@ -163,7 +163,7 @@ Fun fact: Won 3rd place in an Ice Cream Eating contest!
 <br><br><br><br><br>
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/chrissy.jpg){: style="width: 250px; float: left; border: 10px"}
+![Christina Miller]({{ site.url }}{{ site.baseurl }}/images/teampic/chrissy.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Christina Miller (Postdoc)
 Chrissy completed her PhD at The University of Queensland, Australia, where she studied the mutational contribution to genotype-by-environment variation in zebrafish. She is currently focusing on plasticity and urban adaptation in Capsella and is broadly interested in the nature of genetic variation across environments that populations might typically encounter. In her free time, Chrissy enjoys camping, hiking, and road trips.
 
@@ -175,7 +175,7 @@ Pronouns: she/her/hers
 <br><br><br><br><br><br><br><br>
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/gabbie.png){: style="width: 250px; float: left; border: 10px"}
+![Gabbie Sandstedt]({{ site.url }}{{ site.baseurl }}/images/teampic/gabbie.png){: style="width: 250px; float: left; border: 10px"}
 ### Gabbie Sandstedt (Postdoc)
 Gabbie WAs an NSF Postdoctoral Fellow located at Utah State University, where she was co-advised by Dr. Catherine Rushworth and worked on the ecological and genetic mechanisms that contribute to hybrid vigor in Boechera. In her free time, Gabbie enjoys hiking, paddle boarding, and listening to audiobooks. She currently works for GeneDx.
 
@@ -184,18 +184,18 @@ Fun Fact: She can talk about her cat, Otto, for hours.
 
 <br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Panko_pic1.jpg){: style="width: 250px; float: left; border: 10px"}
+![Rebecca Panko]({{ site.url }}{{ site.baseurl }}/images/teampic/Panko_pic1.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Rebecca Panko (Postdoc)
 Rebecca was a postdoc in the lab from 2020 to 2022 working on local adaptation in urban *Capsella bursa-pastoris*. After her postdoc, she's doing a cool AAAS fellowship at the EPA.
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Daniela.jpg){: style="width: 250px; float: left; border: 10px"}
+![Daniela Palmer]({{ site.url }}{{ site.baseurl }}/images/teampic/Daniela.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Daniela Palmer (Postdoc)
 Daniela was an EEB Presidential Postdoc Fellow from 2021 to 2022, doing independent research on insect sex chromosomes. She now is running her own lab at University of Texas, Arlington.
 
 <br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/miaAndSparty.jpg){: style="width: 250px; float: left; border: 10px"}
+![Mia Stevens]({{ site.url }}{{ site.baseurl }}/images/teampic/miaAndSparty.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Mia Stevens (Research Technician)
 Mia Stevens received her B.A. from The College of Wooster in Biology in 2020 studying pollination biology. She then spent two years as a lab manager with The Echinacea Project at the Chicago Botanic Garden studying habitat fragmentation. Broadly she is interested in how plants respond to their environment and is excited to learn new skills during her time with the Josephs lab. In her free time, she likes to explore the great outdoors, knit, and make yummy baked goods.
 
@@ -207,7 +207,7 @@ Fun fact: Has won a dance battle! (song was Rain on me by Lady Gaga ft. Ariana G
 <br><br><br><br><br><br><br><br><br><br>
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2023.jpg){: style="width: 500px; float: center; border: 10px"}
+![Summer 2023 Undergraduates: Kennedy, Athena, Claudia, Evan, Claire, Tianyi]({{ site.url }}{{ site.baseurl }}/images/teampic/undergradsSummer2023.jpg){: style="width: 500px; float: center; border: 10px"}
 <br>
 Summer 2023 Undergraduates;Left to right: Kennedy, Athena, Claudia, Evan, Claire, Tianyi
 <br><br>

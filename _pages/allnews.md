@@ -1,6 +1,7 @@
 ---
-title: "Home"
+title: "Josephs Lab - News"
 layout: textlay
+
 excerpt: "Josephs Lab at Michigan State University."
 sitemap: false
 permalink: /allnews.html
