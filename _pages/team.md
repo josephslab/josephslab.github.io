@@ -53,19 +53,6 @@ Fun fact: one of her favorite plants is Puya bereronia
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-![Asia Hightower]({{ site.url }}{{ site.baseurl }}/images/teampic/asia.jpg){: style="width: 250px; float: left; border: 10px"}
-### Asia Hightower (Graduate Student)
-Asia is a graduate student in the Plant Biology program PhD program at MSU. She completed her B.A. and MSc. at Wayne State university where she majored in Biological sciences with a concentration of evolutionary and developmental biology. Her master’s research focused on the developmental mechanism for floral meristem termination in dioecious *Spinacia oleracea*. Her main interests now include comparative leaf morphology and herbarium studies. In her free time, Asia is looking to improve her science communication skills and getting to know the East Lansing area.
-
-email: highto29 [at] msu.edu
-<br>
-Pronouns: she/her/hers
-<br>
-Fun fact: Is allergic to gold!
-
-<br><br><br><br><br><br><br><br><br><br>
-
-
 ![Magie Williams]({{ site.url }}{{ site.baseurl }}/images/teampic/magie.png){: style="width: 250px; float: left; border: 10px"}
 ### Magie Williams (Graduate Student)
 Magie is an Michigan State University Alumni, obtaining an B.S. in Plant Biology, and a second in Biochemistry and Molecular Biology, focusing on mRNA alternative coding bias. She also has a MSc from Queen Mary University of London, studying cryptic taxa in the species Dioscorea sylvatica at the Royal Botanic Garden’s Kew. This was followed by a position in the Great Lakes Bioenergy Research Center. Magie started as a research technician in our lab and is now a graduate student! Broadly, Magie’s interests are focused on the adaptive response of plants in the context of larger environmental changes and rapid evolution. In their free time, Magie enjoys hiking, lounging, and spending time with her 3 cats.  
@@ -134,6 +121,19 @@ Claire graduated from MSU with a major in Environmental Biology & Plant Biology.
 Fun Fact: She has caught baby alligators!
 
 <br><br><br><br><br><br><br><br>
+
+![Asia Hightower]({{ site.url }}{{ site.baseurl }}/images/teampic/asia.jpg){: style="width: 250px; float: left; border: 10px"}
+### Asia Hightower (Graduate Student)
+Asia completed her PhD in Plant Biology at MSU. She completed her B.A. and MSc. at Wayne State university where she majored in Biological sciences with a concentration of evolutionary and developmental biology. Her master’s research focused on the developmental mechanism for floral meristem termination in dioecious *Spinacia oleracea*. Her main interests now include comparative leaf morphology and herbarium studies. In her free time, Asia is looking to improve her science communication skills and getting to know the East Lansing area.
+
+email: highto29 [at] msu.edu
+<br>
+Pronouns: she/her/hers
+<br>
+Fun fact: Is allergic to gold!
+
+<br><br><br><br><br><br><br><br><br><br>
+
 ![Miles Roberts]({{ site.url }}{{ site.baseurl }}/images/teampic/miles.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Miles Roberts (Graduate Student)
 Miles obtained his PhD in Genetics and Genome Sciences program at MSU and is now an NSF Postdoctoral Fellow with Moi Exposito-Alonso. He completed his B.S. at Washington State University where he majored in Biology and minored in Chemistry, Mathematics, and Quantitative Biology. His research interests include the evolution of gene expression, the determinants of genetic diversity, and disentangling selective and demographic processes. In his free time, Miles enjoys watching horrible movies and making equally horrible puns.
